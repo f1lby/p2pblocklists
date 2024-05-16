@@ -1,16 +1,18 @@
 IPv4 lookup lists.
 These files present a large range of public Internet IPv4 provider/country to address lookup.
-It's a bit ike a reverse WHOIS, where you have the country or provider name and can reference these files to find the associated IPv4 addresses.
+It's a bit like a 'reverse WHOIS', where you have the country or provider name and can reference these files to find the associated IPv4 addresses.
 
 These files are in the .p2p file format which is compatible with Peerblock and Peerguardian.
+The files are all plain text format and readable using Notepad, Notepad++, Vim, etc.
 These files have been loving hand created and maintained for over 13 years by the author.
 
 Use cases include;
-Deny IPv4 from specific countries (GEOIP), network providers or Government / Military
-Allow IPv4 from specific countries (GEOIP), network providers or Government / Military
-You make have a firewall which is by default DENY ALL, and wish to 'punch a fw holes in it for specific providers' - you may your provider listed here.
+* Deny IPv4 from specific countries (GEOIP), network providers or Government / Military
+* Allow IPv4 from specific countries (GEOIP), network providers or Government / Military
+* You have a firewall which is DENY ALL, and wish to 'punch a few holes in it for specific providers' - you may find your network provider listed here.
 
 The lists can be adapted to suit your needs and applied to open source and/or commercial enterprise-grade firewalls.
+
 
 
 No warranty is given for any inaccuracies, loss of service or otherwise.
