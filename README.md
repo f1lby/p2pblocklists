@@ -6,7 +6,7 @@ It's a bit like a 'reverse WHOIS', where you have the country or provider name a
 These files are in the .p2p file format which is compatible with Peerblock and Peerguardian.
 
 The files are all plain text format and readable using Notepad, Notepad++, Vim, etc.
-They have been loving hand created and maintained since 2006 by the author.
+They have been lovingly hand created and maintained since 2006 by the author.
 
 Use cases include;
 * Deny IPv4 from specific countries (GEOIP), network providers or Government / Military
