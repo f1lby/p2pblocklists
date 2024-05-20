@@ -15,4 +15,5 @@ Use cases include;
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
-No warranty is given for any inaccuracies, loss of service or otherwise.
+Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise.
+            These lists are not complete and do not include all of the world, just some of it. They're pretty good and very comprehensive, just not 100% world coverage.
