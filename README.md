@@ -4,6 +4,10 @@ These files present a large range of public Internet IPv4 provider/country to ad
 It's a bit like a 'reverse WHOIS', where you have the country or provider name and can reference these files to find the associated IPv4 addresses.
 
 These files are in the .p2p file format which is compatible with Peerblock and Peerguardian.
+The file format consists of the following markdown (in most cases);
+
+STARTADDRESS - END ADDRESS - DETAILS (all free text)  STARTADDRESS-ENDADDRESS
+In some cases, the free text may be in CIDR format. Most entries include the details along with the date that it was recorded.
 
 The files are all plain text format and readable using Notepad, Notepad++, Vim, etc.
 They have been lovingly hand created and maintained since 2006 by the author.
