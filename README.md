@@ -7,6 +7,7 @@ These files are in the .p2p file format which is compatible with Peerblock and P
 The file format consists of the following markdown (in most cases);
 
 STARTADDRESS - END ADDRESS - DETAILS (all free text)  STARTADDRESS-ENDADDRESS
+
 In some cases, the free text may be in CIDR format. Most entries include the details along with the date that it was recorded.
 
 The files are all plain text format and readable using Notepad, Notepad++, Vim, etc.
