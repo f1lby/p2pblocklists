@@ -16,9 +16,12 @@ They have been lovingly hand created and maintained since 2006 by the author.
 Use cases include;
 * Deny IPv4 from specific countries (GEOIP), network providers or Government / Military
 * Allow IPv4 from specific countries (GEOIP), network providers or Government / Military
-* You have a firewall which is DENY ALL, and wish to 'punch a few holes in it for specific providers' - you may find your network provider listed here.
+* You have a firewall which is DENY ALL, and wish to 'punch a few holes in it' for specific providers or organisations - you may find your network provider listed here.
+* You wish to block network access from a specific provider / organisation.
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
+
+As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party....
 
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise.
 These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added....
