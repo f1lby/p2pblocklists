@@ -21,7 +21,9 @@ Use cases include;
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
-As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party....
+I do not maintain lists of abusive or malicious bad ip addresses - there is already a respected source for this data - please see https://www.abuseipdb.com/
+
+** As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party.... **
 
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise.
 These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added....
