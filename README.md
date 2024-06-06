@@ -16,8 +16,8 @@ They have been lovingly hand created and maintained since 2006 by the author.
 Use cases include;
 * Deny IPv4 from specific countries (GEOIP), network providers or Government / Military
 * Allow IPv4 from specific countries (GEOIP), network providers or Government / Military
-* You have a firewall which is DENY ALL, and wish to 'punch a few holes in it' for specific providers or organisations - you may find your network provider listed here.
-* You wish to block network access from a specific provider / organisation.
+* You have a firewall which is DENY ALL, and wish to 'punch a few holes in it' for specific providers or organisations (ORGIP) - you may find your network provider listed here.
+* You wish to block network access from a specific provider / organisation (ORGIP).
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
