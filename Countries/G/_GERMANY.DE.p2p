@@ -248,6 +248,12 @@
 139.30.0.0/16 rostock university.DE:139.30.0.0-139.30.255.255
 139.174.0.0/16 claustal university.DE:139.174.0.0-139.174.255.255
 141.0.16.0-141.0.23.255 domainfactory.DE 08June2024:141.0.16.0-141.0.23.255
+141.2.0.0-141.2.255.255 Johann Wolfgang Goethe-Universitaet Frankfurt.DE 08June2024:141.2.0.0-141.2.255.255
+141.3.0.0-141.3.255.255 Karlsruhe Institute of Technology.DE 08June2024:141.3.0.0-141.3.255.255
+141.4.0.0-141.4.255.255 dfn.DE 08June2024:141.4.0.0-141.4.255.255
+141.5.0.0-141.5.255.255 Max Planck Institut fuer molekulare Physiologie.DE 08June2024:141.5.0.0-141.5.255.255
+141.6.0.0-141.6.255.255 basf.DE 08June2024:141.6.0.0-141.6.255.255
+141.7.0.0-141.7.255.255 fh-heilbronn.DE 08June2024:141.7.0.0-141.7.255.255
 141.15.0.0/16 public administration of berlin.DE 10Apr2017:141.15.0.0-141.15.255.255
 141.22.0.0-141.22.255.255 Hochschule fuer angewandte Wissenschaften.DE 17Feb2024:141.22.0.0-141.22.255.255
 141.98.7.0-141.98.7.255 soliacloud.DE 29Nov2023:141.98.7.0-141.98.7.255
