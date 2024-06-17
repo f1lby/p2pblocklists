@@ -19,6 +19,7 @@ Use cases include;
 * You have a firewall which is DENY ALL, and wish to 'punch a few holes in it' for specific providers or organisations (ORGIP) - you may find your network provider listed here.
 * You wish to block network access from a specific provider / organisation (ORGIP).
 * OSINT - Discovery of IP address from an organisation name.
+* You want to launch a port scan and want to ensure you exclude certain organisations or countries to reduce the risk of complaints (U.S Department of Defense can get upset when subjected to a scan!). I'm not going to discuss the legalities (or illegalities) of such activities. That's between you, your lawyer and your local law enforcement!
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
