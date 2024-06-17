@@ -18,12 +18,14 @@ Use cases include;
 * Allow IPv4 from specific countries (GEOIP), network providers or Government / Military
 * You have a firewall which is DENY ALL, and wish to 'punch a few holes in it' for specific providers or organisations (ORGIP) - you may find your network provider listed here.
 * You wish to block network access from a specific provider / organisation (ORGIP).
-* OSINT - Discovery of IP address from an organisation name.
+* OSINT - Discovery of an IPv4 address from an organisation name.
 * You want to launch a port scan and ensure certain organisations or countries are excluded to reduce the risk of complaints (U.S Department of Defense can get upset when subjected to a scan!). I'm not going to discuss the legalities (or illegalities) of such activities. That's between you, your lawyer and your local law enforcement!
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
-I do not maintain lists of abusive or malicious bad IPv4 addresses - there is already a respected source for this data - please see https://www.abuseipdb.com/
+NOTE1: I do not maintain lists of abusive or malicious bad IPv4 addresses - there is already a respected source for this data - please see https://www.abuseipdb.com/
+
+NOTE2: Some country lists may not be fully populated due to recording the IPv4 addresses within the test files related to a specific provider or organisation. Use both the country and the org lists for your maximum enjoyment.
 
 ** As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party.... **
 
