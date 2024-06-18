@@ -248,6 +248,8 @@
 138.246.0.0/16 technical university of munich.DE 29Sep2017:138.246.0.0-138.246.255.255
 139.19.0.0/16 max planck institut fuer informatik.DE 11Dec2017:139.19.0.0-139.19.255.255
 139.30.0.0/16 rostock university.DE:139.30.0.0-139.30.255.255
+139.66.0.0-139.66.255.255 sap.DE 18June2024:139.66.0.0-139.66.255.255
+139.75.0.0-139.75.255.255 Alfred-Wegener-Institut.DE 18June2024:139.75.0.0-139.75.255.255
 139.174.0.0/16 claustal university.DE:139.174.0.0-139.174.255.255
 141.0.16.0-141.0.23.255 domainfactory.DE 08June2024:141.0.16.0-141.0.23.255
 141.2.0.0-141.2.255.255 Johann Wolfgang Goethe-Universitaet Frankfurt.DE 08June2024:141.2.0.0-141.2.255.255
