@@ -21,7 +21,7 @@ Use cases include;
 * OSINT - Discovery of an IPv4 address from an organisation name.
 * You want to launch a port scan and ensure certain organisations or countries are excluded to reduce the risk of complaints from less tolerant targets.
 * Hardening your infrastructure by applying filtering to reduce the possibility of a cyber-attack.
-* To limit outbound Internet traffic to only specific providers or countries (helps to lock down hosts which are compromised and attempting to 'phone home' to their C&C/C2 mothership).
+* To limit outbound Internet traffic to only specific providers or countries (helps to lock down hosts which are compromised and attempting to 'phone home' to their Command and Control (C&C/C2) server).
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
