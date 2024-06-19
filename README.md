@@ -25,6 +25,7 @@ Use cases include;
 * WAF bypass. Configure your WAF/IPS/IDS to respond in a different manner depending on the source inbound IP address.
 * Anti-spam filtering. Configure your packet-based firewall to block specific IP address ranges for SMTP or configure your SMTP receiver to allow or deny specific IP ranges. You could also make use of a host-based firewall.
 * Search for large ranges of potentially unused IP addresses - Some large providers are now making offers for the transfer of some of these previously unused IPv4 address blocks.
+* Azure Conditional Access Policies which make use of IPv4 addresses. Azure offers GEOIP but not ORGIP.
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
