@@ -22,6 +22,9 @@ Use cases include;
 * You want to launch a port scan and ensure certain organisations or countries are excluded to reduce the risk of complaints from less tolerant targets.
 * Hardening your infrastructure by applying filtering to reduce the possibility of a cyber-attack.
 * To limit outbound Internet traffic to only specific providers or countries (helps to lock down hosts which are compromised and are attempting to 'phone home' to their Command and Control (C&C / C2) server).
+* WAF bypass. Configure your WAF/IPS/IDS to respond in a different manner depending on the source inbound IP address.
+* Anti-spam filtering. Configure your packet-based firewall to block specific IP address ranges for SMTP or configure your SMTP receiver to allow or deny specific IP ranges. You could also make use of a host-based firewall.
+* Search for large ranges of potentially unused IP addresses - Some large providers are now making offers for the transfer of some of these previously unused IPv4 address blocks.
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
@@ -31,5 +34,5 @@ NOTE2: Some country lists may not be fully populated due to recording the IPv4 a
 
 ** As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party.... **
 
-Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise.
+Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this document.
 These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added....
