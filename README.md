@@ -27,6 +27,8 @@ Use cases include;
 * Whitelist IP address ranges for SMTP greylisting or DNSBL bypass.
 * Search for large ranges of potentially unused IP addresses - Some large providers are now making offers for the transfer of some of these previously unused IPv4 address blocks.
 * Azure Conditional Access Policies which make use of IPv4 addresses. Azure offers GEOIP but not ORGIP.
+* Target audience - You already know who your target audience is (for your servers), so these lists could help you restrict access accordingly.
+* Fraud prevention - As part of a 'defense-in-depth' strategy, if you provide services to clients, using these lists could help to work out the risk profile of an IP address.
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
