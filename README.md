@@ -1,7 +1,7 @@
-# IPv4 lookup lists.
+# IPv4 Lookup Lists
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
-It's a bit like a 'reverse WHOIS', where you have the country or provider name and can reference these files to find the associated IPv4 addresses.
+It's a bit like a '*reverse WHOIS*', where you have the country or provider name and can reference these files to find the associated IPv4 addresses.
 
 These files are in the .p2p file format which is compatible with Peerblock and Peerguardian.
 The file format consists of the following markdown (in most cases);
