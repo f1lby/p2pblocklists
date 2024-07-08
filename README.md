@@ -39,7 +39,7 @@ The lists can be adapted to suit your needs and the information within applied t
 ### NOTE3: The IPv4 address space allows for a maximum of 4,294,967,296 IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are 3,684,258,432.
 
 
-# ** As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party.... **
+## ** As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party.... **
 
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo.
 
