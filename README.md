@@ -44,3 +44,5 @@ The lists can be adapted to suit your needs and the information within applied t
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo.
 
 These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added....
+
+Also - see https://en.wikipedia.org/wiki/PeerGuardian
