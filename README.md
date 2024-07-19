@@ -38,7 +38,7 @@ The lists can be adapted to suit your needs and the information within applied t
 **NOTE2: Some country lists may not be fully populated due to recording the IPv4 addresses within the test files related to a specific provider or organisation. Use both the country and the org lists for your maximum enjoyment.**
 
 **NOTE3: The IPv4 address space allows for a maximum of 4,294,967,296 IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are 3,684,258,432.**
-
+**NOTE4: The file _UNASSIGNED.p2p_ refers to IP addresses that are not assigned to an organisation.
 
 ### ** As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party.... **
 
