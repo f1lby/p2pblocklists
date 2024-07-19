@@ -29,6 +29,7 @@ Use cases include;
 * Azure Conditional Access Policies which make use of IPv4 addresses. Azure offers GEOIP but not ORGIP.
 * Target audience - You already know who your target audience is (for your servers), so these lists could help you restrict access accordingly.
 * Fraud prevention - As part of a 'defense-in-depth' strategy, if you provide services to clients, using these lists could help to work out the risk profile of an IP address.
+* Filtering of source IP addresses to your authoritative name servers. If DNS records can't be resolved, it makes it harder for an attacker to find your hosts. This can help to reduce spam.
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
