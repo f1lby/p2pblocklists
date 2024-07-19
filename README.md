@@ -6,7 +6,7 @@ It's a bit like a '*reverse WHOIS*', where you have the country or provider name
 These files are in the .p2p file format which is compatible with Peerblock and Peerguardian.
 The file format consists of the following markdown (in most cases);
 
-*STARTADDRESS - END ADDRESS - DETAILS* (all free text) *STARTADDRESS-ENDADDRESS*
+*_STARTADDRESS - END ADDRESS - DETAILS* (all free text) *STARTADDRESS-ENDADDRESS_*
 
 In some cases, the free text may be in CIDR format. Most entries include the details along with the date that it was recorded.
 
@@ -33,11 +33,11 @@ Use cases include;
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
-**NOTE1: I do not maintain lists of abusive or malicious bad IPv4 addresses - there is already a respected source for this data - please see https://www.abuseipdb.com/**
+**NOTE1: I do not maintain lists of abusive or malicious bad IPv4 addresses - there is already a respected source for this data - please see _https://www.abuseipdb.com/_**
 
 **NOTE2: Some country lists may not be fully populated due to recording the IPv4 addresses within the test files related to a specific provider or organisation. Use both the country and the org lists for your maximum enjoyment.**
 
-**NOTE3: The IPv4 address space allows for a maximum of 4,294,967,296 IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are 3,684,258,432.**
+**NOTE3: The IPv4 address space allows for a maximum of _4,294,967,296_ IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are _3,684,258,432_.**
 
 **NOTE4: The file _UNASSIGNED.p2p_ refers to IP addresses that are not assigned to an organisation.**
 
@@ -49,4 +49,4 @@ Disclaimer; No warranty is given for any inaccuracies, loss of service or otherw
 
 
 
-Also - see https://en.wikipedia.org/wiki/PeerGuardian
+Also - see _https://en.wikipedia.org/wiki/PeerGuardian_
