@@ -23,11 +23,7 @@
 139.180.128.0-139.180.191.255 choopa/constant company / vultr:139.180.128.0-139.180.191.255
 140.82.0.0-140.82.63.255 choopa/constant company 05May2024:140.82.0.0-140.82.63.255
 144.202.0.0-144.202.127.255 choopa/constant company / vultr:144.202.0.0-144.202.127.255
-149.28.8.0-149.28.15.255 choopa/constant company / vultr:149.28.8.0-149.28.15.255
-149.28.16.0-149.28.31.255 choopa/constant company / vultr:149.28.16.0-149.28.31.255
-149.28.32.0-149.28.63.255 choopa/constant company / vultr:149.28.32.0-149.28.63.255
-149.28.64.0-149.28.127.255 choopa/constant company / vultr:149.28.64.0-149.28.127.255
-149.28.128.0-149.28.255.255 choopa/constant company / vultr:149.28.128.0-149.28.255.255
+149.28.8.0-149.28.255.255 choopa/constant company / vultr 28August2024:149.28.8.0-149.28.255.255
 149.248.0.0-149.248.63.255 choopa/constant company / vultr:149.248.0.0-149.248.63.255
 155.138.128.0-155.138.255.255 choopa/constant company / vultr:155.138.128.0-155.138.255.255
 158.247.192.0-158.247.255.255 choopa/constant company / vultr:158.247.192.0-158.247.255.255
