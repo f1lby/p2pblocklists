@@ -45,7 +45,7 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE5: These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added.... This project is WIP and shall continue until the entire IPv4 address space is documented.**
 
-### ** As of 04th June 2024 the list officially reached over 2 billion IPv4 addresses. We had a little party.... **
+### ** As of 11th September 2024 the list officially reached over 2.2 billion IPv4 addresses. We had a little party.... **
 
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo.
 
