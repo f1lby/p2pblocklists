@@ -45,7 +45,7 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE5: These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added.... This project is WIP and shall continue until the entire IPv4 address space is documented.**
 
-**NOTE6: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anythung listed here can be found using WHOIS, Google and a bit of reverse DNS...
+**NOTE6: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anythung listed here can be found using WHOIS, Google and a bit of reverse DNS...**
 
 ### ** As of 11th September 2024 the list officially reached over 2.2 billion IPv4 addresses. We had a little party.... **
 
