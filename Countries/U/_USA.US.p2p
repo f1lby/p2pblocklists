@@ -2315,7 +2315,7 @@ quickwebsolutions.US subscriber in India:159.8.30.66-159.8.30.66
 166.91.0.0-166.91.255.255 district of columbia schools.US 12March2024:166.91.0.0-166.91.255.255
 166.93.0.0-166.93.255.255 Synoptek.US 12March2024:166.93.0.0-166.93.255.255
 166.102.0.0/16 windstream.US 05Dec2016:166.102.0.0-166.102.255.255
-U.S. Netblock - service provider corp.us:166.128.0.0-166.255.255.255
+166.128.0.0-166.255.255.255 wirelessdataspco.org/Wireless Data Service Provider Corporation.US 20November2024:166.128.0.0-166.255.255.255
 167.88.80.0-167.88.95.255 hotwire communications.US 31Dec2016:167.88.80.0-167.88.95.255
 167.88.144.0-167.88.159.255 Server Central Network.US 29October2024:167.88.144.0-167.88.159.255
 167.142.0.0/16 aureon.US 19Dec2016:167.142.0.0-167.142.255.255
