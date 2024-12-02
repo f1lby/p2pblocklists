@@ -13,7 +13,7 @@ The file format consists of the following markdown (in most cases);
 In some cases, the free text may be in CIDR format. Most entries include the details along with the date that it was recorded.
 
 The files are all plain text format and readable using Notepad, Notepad++, Vim, etc.
-They have been lovingly hand created and maintained since 2006 by the author.
+They have been lovingly hand created and maintained since 2006 by the author using both manual and semi-automated methods.
 
 Use cases include;
 * Deny IPv4 from specific countries (GEOIP), network providers or Government / Military
