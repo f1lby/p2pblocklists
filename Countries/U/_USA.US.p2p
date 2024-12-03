@@ -2061,6 +2061,8 @@ scis air security.US 31May2017:96.43.13.0-96.43.13.15
 132.224.0.0-132.224.255.255 The Boeing Company.US 31May2024:132.224.0.0-132.224.255.255
 132.228.0.0-132.228.255.255 Northrop Grumman.US 31May2024:132.228.0.0-132.228.255.255
 132.235.0.0/16 ohio university.US:132.235.0.0-132.235.255.255
+134.4.0.0-134.4.255.255 California Institute of Technology.US 03December2024:134.4.0.0-134.4.255.255
+134.5.0.0-134.5.255.255 Lockheed Martin Corporation.US 03December2024:134.5.0.0-134.5.255.255
 134.42.0.0-134.42.223.255 wellington management co.US 10Jan2017:134.42.0.0-134.42.223.255
 134.120.0.0/16 general dynamics.US 25Apr2016:134.120.0.0-134.120.255.255
 134.121.0.0/16 washington state university.US 25Apr2016:134.121.0.0-134.121.255.255
