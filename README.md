@@ -47,7 +47,7 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE6: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
 
-### ** As of 03rd December 2024 the list officially reached over 2.31 billion IPv4 addresses. A little party was held.... **
+### ** As of 10th December 2024 the list officially reached over 2.31 billion IPv4 addresses. A little party was held.... **
 
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo.
 
