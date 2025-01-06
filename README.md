@@ -49,7 +49,7 @@ The lists can be adapted to suit your needs and the information within applied t
 
 ### ** As of 06th January 2025 the list officially reached over 2.32 billion IPv4 addresses. We had another little celebration....... **
 
-Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo.
+Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo. My hovercraft is full of eels.
 
 
 
