@@ -35,7 +35,7 @@ Use cases include;
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
-**NOTE1: I do not maintain lists of abusive or malicious bad IPv4 addresses - there is already a respected source for this data - please see _https://www.abuseipdb.com/_**
+**NOTE1: Abusive or malicious bad IPv4 addresses are not presented in this repo - there is already a respected source for this data - please see _https://www.abuseipdb.com/_**
 
 **NOTE2: Some country lists may not be fully populated due to recording the IPv4 addresses instead, within the files which are for a specific provider or organisation. Use both the country and the org lists for your maximum enjoyment.**
 
