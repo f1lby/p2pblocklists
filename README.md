@@ -2,6 +2,8 @@
 
 # 'Probably the biggest and most comprehensive open source IPv4 address audit ever'
 
+### ** As of 02nd February 2025 the list officially reached over 2.354 billion IPv4 addresses. **
+
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
 
@@ -46,8 +48,6 @@ The lists can be adapted to suit your needs and the information within applied t
 **NOTE5: These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added.... This project is WIP and shall continue until the entire IPv4 address space is documented.**
 
 **NOTE6: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
-
-### ** As of 02nd February 2025 the list officially reached over 2.354 billion IPv4 addresses. **
 
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo. My hovercraft is full of eels.
 
