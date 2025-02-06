@@ -39,7 +39,7 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE1: Abusive or malicious bad IPv4 addresses are not presented in this repo - there is already a respected source for this data - please see _https://www.abuseipdb.com/_**
 
-**NOTE2: Some country lists may not be fully populated due to recording the IPv4 addresses instead, within the files which are for a specific provider or organisation. Use both the country and the org lists for your maximum enjoyment.**
+**NOTE2: Some country lists may not be fully populated due to recording the IPv4 addresses instead against a provider / organisation. Use both the country and the org lists for your maximum enjoyment.**
 
 **NOTE3: The IPv4 address space allows for a maximum of _4,294,967,296_ IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are _3,684,258,432_.**
 
