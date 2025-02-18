@@ -2,7 +2,7 @@
 
 # 'Probably the biggest and most comprehensive open source IPv4 address audit ever'
 
-### ** As of 17th February 2025 the list officially reached over 2.363 billion IPv4 addresses. **
+### ** As of 18th February 2025 the list officially reached over 2.364 billion IPv4 addresses. **
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
