@@ -1,6 +1,6 @@
-# Gigantic IPv4 Address Lists For PeerBlock
+# Gigantic IPv4 Address List Lookup
 
-# 'Probably the biggest and most comprehensive open source IPv4 address audit ever'
+# 'Probably the biggest and most comprehensive public open source IPv4 address audit ever done.... ever....'
 
 ### ** As of 24th February 2025 the list officially reached over 2.378 billion IPv4 addresses. **
 
