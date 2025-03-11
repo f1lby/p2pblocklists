@@ -1,4 +1,4 @@
-# Gigantic IPv4 Address List Lookup - 2.403 billion IPv4 addresses
+# Gigantic IPv4 Address List Lookup
 
 # 'Probably the biggest and most comprehensive public open source IPv4 address audit ever done.... ever....'
 
