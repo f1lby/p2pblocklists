@@ -45,9 +45,11 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE4: The file _UNASSIGNED.p2p_ refers to IP addresses that are not assigned to any organisation. You would not normally expect any traffic from these ranges.**
 
-**NOTE5: These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added.... This project is WIP and shall continue until the entire IPv4 address space is documented.**
+**NOTE5: The file RESERVED.p2p refers to IP addresses that are reserved and there would not normally be a reason for you to manually assign ANY of these IP address ranges. **
 
-**NOTE6: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
+**NOTE6: These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added.... This project is WIP and shall continue until the entire IPv4 address space is documented.**
+
+**NOTE7: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
 
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo. My hovercraft is full of eels.
 
