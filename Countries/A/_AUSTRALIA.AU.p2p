@@ -225,6 +225,7 @@
 147.10.0.0-147.10.255.255 telstra.AU 18March2025:147.10.0.0-147.10.255.255
 147.132.0.0-147.132.255.255 citec.com.AU 15June2024:147.132.0.0-147.132.255.255
 149.135.0.0/16 telstra.AU:149.135.0.0-149.135.255.255
+151.130.0.0-151.130.255.255 Western Australian Land Information Authority/landgate.wa.gov.AU 21March2025:151.130.0.0-151.130.255.255
 156.16.0.0-156.16.255.255 Department of the Prime Minister and Cabinet @pmc.gov.AU 29January2025:156.16.0.0-156.16.255.255
 156.22.0.0-156.22.239.255 Northern Sydney Local Health District health.nsw.gov.AU 29January2025:156.22.0.0-156.22.239.255
 156.22.240.0-156.22.255.255 eHealth NSW.AU 29January2025:156.22.240.0-156.22.255.255
