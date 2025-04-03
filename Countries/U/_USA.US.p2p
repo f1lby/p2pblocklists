@@ -3977,6 +3977,9 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 148.8.0.0-148.8.255.255 Milwaukee Area Technical College.US 02April2025:148.8.0.0-148.8.255.255
 148.9.0.0-148.9.255.255 NTT DATA Services Holdings Corporation.US 02April2025:148.9.0.0-148.9.255.255
 148.10.0.0-148.50.255.255 DoD Network Information Center.MIL.US 02April2025:148.10.0.0-148.50.255.255
+148.51.0.0-148.51.127.255 Lever Industries.US 03April2025:148.51.0.0-148.51.127.255
+148.51.128.0-148.51.255.255 Iron Mountain Data Center.US 03April2025:148.51.128.0-148.51.255.255
+148.52.0.0-148.52.255.255 US Sprint, Government Systems Division.GOV.US 03April2025:148.52.0.0-148.52.255.255
 148.72.0.0-148.72.255.255 godaddy.US 17April2024:148.72.0.0-148.72.255.255
 148.74.0.0-148.77.255.255 optmum onine.US 17April2024:148.74.0.0-148.77.255.255
 148.78.0.0-148.78.63.255 joyent.US 17April2024:148.78.0.0-148.78.63.255
@@ -4072,6 +4075,7 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 151.181.192.0-151.181.239.255 Crown Castle Fiber LLC.U 30March2025:151.181.192.0-151.181.239.255
 151.181.240.0-151.181.255.255 Hodgson Russ LLP.US 30March2025:151.181.240.0-151.181.255.255
 151.185.0.0-151.185.255.255 Palm Beach Atlantic University.US 02April2025:151.185.0.0-151.185.255.255
+151.186.7.0-151.186.9.255 opendns/cisco.US 03April2025:151.186.7.0-151.186.9.255
 152.1.0.0-152.1.255.255 North Carolina State University 30March2025:152.1.0.0-152.1.255.255
 152.2.0.0-152.2.255.255 University of North Carolina at Chapel Hill.US 30March2025:152.2.0.0-152.2.255.255
 152.3.0.0-152.3.255.255 Duke University.US 30March2025:152.3.0.0-152.3.255.255
