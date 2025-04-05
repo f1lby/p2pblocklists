@@ -1,0 +1,16 @@
+.AD  =  Andorra
+.AF  =  Afghanistan
+.AG  =  Antigua
+.AL  =  Albania
+.AM  =  Armenia
+.AN  =  Antilles
+.AO  =  Angola
+.AR  =  Argentina
+.AT  =  Austria
+.AU  =  Australia
+.AW  =  Aruba
+.AZ  =  Afghanistan
+.DZ  =  Algeria
+.FM  =  Federated States of Micronesia
+.MP  =  Micronesia
+.UK  =  United Kingdom
