@@ -3392,7 +3392,16 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 128.230.0.0/16 syracuse university.US 19Apr2016:128.230.0.0-128.230.255.255
 128.238.0.0/16 polytechnic university NY.US:128.232.0.0-128.232.255.255
 128.239.0.0/16 college of william & mary.US:128.239.0.0-128.239.255.255
-129.7.0.0/16 university of houston.US:129.7.0.0-129.7.255.255
+129.1.0.0-129.1.255.255 Bowling Green State University.US 08April2025:129.1.0.0-129.1.255.255
+129.2.0.0-129.2.255.255 University of Maryland.US 08April2025:129.2.0.0-129.2.255.255
+129.3.0.0-129.3.255.255 State University of New York.US 08April2025:129.3.0.0-129.3.255.255
+129.4.0.0-129.4.255.255 TRW Space and Defense Sector.US 08April2025:129.4.0.0-129.4.255.255
+129.5.0.0-129.5.255.255 Rensselaer Hartford Graduate Center.US 08April2025:129.5.0.0-129.5.255.255
+129.6.0.0-129.6.255.255 National Institute of Standards and Technology/NIST.US 08April2025:129.6.0.0-129.6.255.255
+129.7.0.0-129.7.255.255 university of houston.US 08April2025:129.7.0.0-129.7.255.255
+129.8.0.0-129.8.255.255 California State University at Fresno.US 08April2025:129.8.0.0-129.8.255.255
+129.9.0.0-129.9.255.255 Chrysler Group.US 08April2025:129.9.0.0-129.9.255.255
+129.10.0.0-129.10.255.255 Northeastern University.US 08April2025:129.10.0.0-129.10.255.255
 129.49.0.0/16 stony brook uni new york.US:129.49.0.0-129.49.255.255
 129.71.0.0/16 west virginia university.US:129.71.0.0-129.71.255.255
 129.80.0.0-129.80.255.255 Oracle Corporation.US 25February2025:129.80.0.0-129.80.255.255
@@ -3959,6 +3968,7 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 146.17.0.0-146.17.255.255 DoD Network Information Center.US.MIL 20March2025:146.17.0.0-146.17.255.255
 146.18.0.0-146.18.255.255 fedex.US 20March2025:146.18.0.0-146.18.255.255
 146.19.2.0-146.19.2.255 Def, Inc.US 20March2025:146.19.2.0-146.19.2.255
+146.19.4.0-146.19.4.255 bluedreamtech/Zhimeng Tech Company.US 08April2025:146.19.4.0-146.19.4.255
 146.88.136.0-146.88.143.255 netdna.US 02Jan2017:146.88.136.0-146.88.143.255
 146.88.240.0-146.88.255.255 Arbor Networks.US 30July2024:146.88.240.0-146.88.255.255
 146.93.0.0-146.93.255.255 DoD Network Information Center.US 25November2024:146.93.0.0-146.93.255.255
