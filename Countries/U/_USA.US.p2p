@@ -4176,13 +4176,18 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 152.5.0.0-152.5.255.255 Research Triangle Institute.US 30March2025:152.5.0.0-152.5.255.255
 152.6.0.0-152.6.255.255 Fayetteville State University 30March2025:152.6.0.0-152.6.255.255
 152.7.0.0-152.7.255.255 North Carolina State University.US 30March2025:152.7.0.0-152.9.255.255
-152.10.0.0/16 Appalachian university.US 16June2016:152.10.0.0-152.10.255.255
-152.11.0.0/16 Wake Forest University medical centre.US 16June2016:152.11.0.0-152.11.255.255
-152.12.0.0/16  Winston-Salem State University.US 16June2016:152.12.0.0-152.12.255.255
-152.13.0.0/16 University of North Carolina.US 16June2016:152.13.0.0-152.13.255.255
-152.14.0.0-152.15.255.255 University of North Carolina.US 16June2016:152.14.0.0-152.15.255.255
-152.16.0.0/16 duke university.US 16June2016:152.16.0.0-152.16.255.255
-152.17.0.0/16 Wake Forest University.US 16June2016:152.17.0.0-152.17.255.255
+152.10.0.0-152.10.255.255 Appalachian university.US 08April2025:152.10.0.0-152.10.255.255
+152.11.0.0-152.11.255.255 Wake Forest University medical centre.US 08April2025:152.11.0.0-152.11.255.255
+152.12.0.0-152.12.255.255 Winston-Salem State University.US 08April2025:152.12.0.0-152.12.255.255
+152.13.0.0-152.13.255.255 University of North Carolina.US 08April2025:152.13.0.0-152.13.255.255
+152.14.0.0-152.15.255.255 mcnc/ncren/University of North Carolina.US 08April2025:152.14.0.0-152.15.255.255
+152.16.0.0-152.16.255.255  mcnc/ncren/duke university.US 08April2025:152.16.0.0-152.16.255.255
+152.17.0.0-152.17.255.255 Wake Forest University.US 08April2025:152.17.0.0-152.17.255.255
+152.18.0.0-152.18.255.255 University of North Carolina at Asheville.US 08April2025:152.18.0.0-152.18.255.255
+152.19.0.0-152.19.255.255 University of North Carolina at Chapel Hill.US 08April2025:152.19.0.0-152.19.255.255
+152.20.0.0-152.20.255.255 University of North Carolina at Wilmington.US 08April2025:152.20.0.0-152.20.255.255
+152.21.0.0-152.21.255.255 The University of North Carolina at Pembroke.US 08April2026:152.21.0.0-152.21.255.255
+152.22.0.0-152.22.255.255 MCNC/ncren.US 08April2025:152.22.0.0-152.22.255.255
 152.27.0.0/16 northcarolina education network.US:152.27.0.0-152.27.255.255
 152.41.128.0-152.41.255.255 Catawba College.US 06March2024:152.41.128.0-152.41.255.255
 152.42.0.0-152.42.63.255 Meriwether Lewis Electric Cooperative.US 06March2024:152.42.0.0-152.42.63.255
