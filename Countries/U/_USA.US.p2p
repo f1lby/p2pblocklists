@@ -4271,6 +4271,11 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 153.18.0.0-153.18.255.255 Foothill-DeAnza Community College District.US 13March2025:153.18.0.0-153.18.255.255
 153.21.0.0-153.22.255.255 DoD Network Information Center.MIL.US 13March2025:153.21.0.0-153.22.255.255
 153.23.0.0-153.23.255.255 Air Force Systems Networking.MIL.US 13March2025:153.23.0.0-153.23.255.255
+153.24.0.0-153.26.255.255 Air Force Systems Networking.MIL.US 09April2025:153.24.0.0-153.26.255.255
+153.27.0.0-153.28.255.255 DoD Network Information Center.MIL.US 09April2025:153.27.0.0-153.28.255.255
+153.29.0.0-153.29.255.255 Air Force Systems Networking.MIL.US 09April2025:153.29.0.0-153.29.255.255
+153.30.0.0-153.30.255.255 DoD Network Information Center.MIL.US 09April2025:153.30.0.0-153.30.255.255
+153.31.0.0-153.31.255.255 FBI Criminal Justice Information Services.GOV.US 09April2025:153.31.0.0-153.31.255.255
 154.1.0.0-154.1.255.255 The Goldman Sachs Group.US 08April2025:154.1.0.0-154.1.255.255
 154.2.0.0-154.2.255.255 Energy Management System Services.US 08April2025:154.2.0.0-154.2.255.255
 154.3.0.0-154.4.255.255 psinet/cogent.US 08April2025:154.3.0.0-154.4.255.255
@@ -4278,13 +4283,8 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 154.9.0.0-154.9.255.255 Performance Systems International.US 08April2025:154.9.0.0-154.9.255.255
 154.12.0.0-154.13.255.255 psinet/cogent.US 08April2025:154.12.0.0-154.13.255.255
 154.17.0.0-154.19.255.255 cogent/psinet.US 09April2025:154.17.0.0-154.19.255.255
-154.21.0.0-154.31.255.255 cogent/psinet.US 27September2024:154.21.0.0-154.31.255.255
-154.45.0.0/16 psinet.US:154.45.0.0-154.45.255.255
-154.46.0.0/16 cogent psinet.US:154.46.0.0-154.46.255.255
-154.47.0.0/16 cogent/psi.net.US 31May2017:154.47.0.0-154.47.255.255
-154.48.0.0/16 cogent/psinet.US 08Dec2016:154.48.0.0-154.48.255.255
-154.58.0.0-154.58.255.255 cogent psinet.US 20Feb2024:154.58.0.0-154.58.255.255
-154.64.0.0/16 cogent/psinet.US 04Apr2016:154.64.0.0-154.64.255.255
+154.21.0.0-154.31.255.255 cogent/psinet.US 09April2025:154.21.0.0-154.31.255.255
+154.35.0.0-154.64.255.255 psinet/cogent.US 09April2025:154.35.0.0-154.64.255.255
 155.33.0.0-155.33.255.255 Northeastern University.US 20Feb2024:155.33.0.0-155.33.255.255
 155.70.0.0/16 qwest / centurytel.US 09Jan2017:155.70.0.0-155.70.255.255
 155.92.0.0-155.92.255.255 Milwaukee School of Engineering.US 04April2024:155.92.0.0-155.92.255.255
