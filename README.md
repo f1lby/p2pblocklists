@@ -2,7 +2,7 @@
 
 # 'Probably the biggest and most comprehensive public open source IPv4 address audit ever done.... ever....'
 
-### ** As of 09 April 2025, this repo has over 2.508 billion IPv4 addresses recorded.**
+### ** As of 10 April 2025, this repo has over 2.508 billion IPv4 addresses recorded.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
