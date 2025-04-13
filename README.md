@@ -1,8 +1,8 @@
-# Gigantic IPv4 Address List Lookup
+# Gigantic IPv4 Address List Lookup - 'The Entire IPv4 Internet Address Space Mapping Project'
 
-# 'Probably the biggest and most comprehensive public open source IPv4 address audit ever done.... ever....'
+# 'Probably the biggest and most comprehensive public open source IPv4 address audit mapping exercise ever undertaken.... ever....'
 
-### ** As of 13 April 2025, this repo has over 2.513 billion IPv4 addresses recorded.**
+### ** As of 13 April 2025, this repository has over 2.514 billion IPv4 addresses recorded.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
