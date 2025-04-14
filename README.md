@@ -2,7 +2,7 @@
 
 # 'Probably the biggest and most comprehensive public open source IPv4 address audit mapping exercise ever undertaken.... ever....'
 
-### ** As of 14 April 2025, this repository has over 2.52 billion IPv4 addresses documented.**
+### ** As of 14 April 2025, this repository has over 2.521 billion IPv4 addresses documented.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
