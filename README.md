@@ -37,19 +37,15 @@ Use cases include;
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
-**NOTE1: Abusive or malicious bad IPv4 addresses are not presented in this repo - there is already a respected source for this data - please see _https://www.abuseipdb.com/_**
+**NOTE1: Some country lists may not be fully populated due to recording the IPv4 addresses instead against a provider / organisation. Use both the country and the org lists for your maximum enjoyment.**
 
-**NOTE2: Some country lists may not be fully populated due to recording the IPv4 addresses instead against a provider / organisation. Use both the country and the org lists for your maximum enjoyment.**
+**NOTE2: The IPv4 address space allows for a maximum of _4,294,967,296_ IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are _3,684,258,432_.**
 
-**NOTE3: The IPv4 address space allows for a maximum of _4,294,967,296_ IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are _3,684,258,432_.**
+**NOTE3: The file _UNASSIGNED.p2p_ refers to IP addresses that are not assigned to any organisation. You would not normally expect any traffic from these ranges.**
 
-**NOTE4: The file _UNASSIGNED.p2p_ refers to IP addresses that are not assigned to any organisation. You would not normally expect any traffic from these ranges.**
+**NOTE4: The file RESERVED.p2p refers to IP addresses that are reserved and there would not normally be a reason for you to manually assign ANY of these IP address ranges.**
 
-**NOTE5: The file RESERVED.p2p refers to IP addresses that are reserved and there would not normally be a reason for you to manually assign ANY of these IP address ranges.**
-
-**NOTE6: These lists are pretty good and very comprehensive, but not 100% world coverage. There's always something to be added.... This project is WIP and shall continue until the entire IPv4 address space is documented.**
-
-**NOTE7: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
+**NOTE5: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
 <br><br><br>
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo. My hovercraft is full of eels. Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also, some WHOIS records state a country, and a traceroute proves otherwise, of course this may be due to dynamic routing.... Everything listed here was recorded in the United Kingdom...
 
