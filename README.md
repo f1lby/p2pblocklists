@@ -2,7 +2,7 @@
 
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire Internet'
 
-### ** As of 15 April 2025, this repository has over 2.53 billion IPv4 addresses mapped.**
+### ** As of 15 April 2025, this repository has over 2.532 billion IPv4 addresses mapped.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
@@ -48,7 +48,6 @@ The lists can be adapted to suit your needs and the information within applied t
 **NOTE5: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
 <br><br><br>
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo. My hovercraft is full of eels. Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also, some WHOIS records state a country, and a traceroute proves otherwise, of course this may be due to dynamic routing.... Everything listed here was recorded from a United Kingdom IP address...
-
-
+<br><br>
 
 Also - see _https://en.wikipedia.org/wiki/PeerGuardian_
