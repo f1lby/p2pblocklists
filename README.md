@@ -45,9 +45,9 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE4: The file RESERVED.p2p refers to IP addresses that are reserved and there would not normally be a reason for you to manually assign ANY of these IP address ranges.**
 
-**NOTE5: If you find your IP addresses listed here, you can be assured that all information presented was discovered using OSINT methodologies and that anything listed here can be found using WHOIS, Google and a bit of reverse DNS...**
+**NOTE5: If you find your IP address(es) listed here, be assured that all information was discovered using OSINT methodologies including WHOIS, Google or a bit of reverse DNS...**
 <br><br><br>
-Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably in this repo. My hovercraft is full of eels. Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also, some WHOIS records state a country, and a traceroute proves otherwise, of course this may be due to dynamic routing.... Everything listed here was recorded from a United Kingdom IP address...
+Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably.  Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also sometimes, WHOIS records state a specific country, and a traceroute proves otherwise, but of course this may be due to dynamic routing.... Everything listed here was recorded from a United Kingdom IP address... My hovercraft is full of eels.
 <br><br>
 
 Also - see _https://en.wikipedia.org/wiki/PeerGuardian_
