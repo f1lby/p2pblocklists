@@ -1,6 +1,6 @@
 # Mapping The Entire IPv4 Internet Address Space
 
-# 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire Internet'
+# 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet'
 
 ### ** As of 23 April 2025, this repository has over 2.55 billion IPv4 addresses mapped.**
 
