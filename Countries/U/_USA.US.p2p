@@ -3571,6 +3571,7 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 95.135.132.0-95.135.134.255 Bunny Communications LLC.US 18February2025:95.135.132.0-95.135.134.255
 95.135.140.0-95.135.141.255 Bunny Communications LLC.US 18February2025:95.135.140.0-95.135.141.255
 95.140.224.0-95.140.239.255 limelightnetworks/llnw/edgio.US 18February2025:95.140.224.0-95.140.239.255
+95.143.32.0-95.143.47.255 Sneaker Server, LLC.US 17May2025:95.143.32.0-95.143.47.255
 96.0.0.0-96.0.255.255 Amazon.com, Inc.US 01February2025:96.0.0.0-96.0.255.255
 96.2.0.0-96.3.255.255 midco/Midcontinent Communications.US 01February2025:96.2.0.0-96.3.255.255
 96.4.0.0-96.5.255.255 Education Networks of America.US 01February2025:96.4.0.0-96.5.255.255
@@ -4468,7 +4469,8 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 136.143.144.0-136.143.159.255 LocalTel Communications.US 17October2024:136.143.144.0-136.143.159.255
 136.248.0.0-136.248.255.255 Oracle Corporation.US 06February2025:136.248.0.0-136.248.255.255
 137.0.0.0-137.7.255.255 Air Force Systems Networking.MIL.US 12May2025:137.0.0.0-137.7.255.255
-137.9.0.0-137.12.255.255 Air Force Systems Networking.US.MIL 08July2024:137.9.0.0-137.12.255.255
+137.8.0.0-137.8.255.255 DoD Network Information Center.MIL.US 17May2025:137.8.0.0-137.8.255.255
+137.9.0.0-137.12.255.255 Air Force Systems Networking.US.MIL 17May2025:137.9.0.0-137.12.255.255
 137.18.0.0-137.18.255.255 U.S. House of Representatives.US 08July2024:137.18.0.0-137.18.255.255
 137.20.0.0-137.20.255.255 Public Service Electric and Gas Company.US 08July2024:137.20.0.0-137.20.255.255
 137.21.0.0-137.21.255.255 SUNY College at Brockport.US 08July2024:137.21.0.0-137.21.255.255
@@ -4651,6 +4653,7 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 138.73.0.0-138.73.255.255 Mount Allison University.US 09Nov2023:138.73.0.0-138.73.255.255
 138.74.0.0/16 st norbert college.US 04Jan2017:138.74.0.0-138.74.255.255
 138.88.0.0/16 verizon.US:138.88.0.0-138.88.255.255
+138.91.0.0-138.91.255.255 Microsoft Corp.US 17May2025:138.91.0.0-138.91.255.255
 138.124.184.0-138.124.184.255 STARK INDUSTRIES SOLUTIONS.US 28January2025:138.124.184.0-138.124.184.255
 138.197.0.0-138.197.255.255 digitalocean.US 13May2025:138.197.0.0-138.197.255.255
 138.207.128.0-138.207.255.255 Breezeline.US 29April2025:138.207.128.0-138.207.255.255
