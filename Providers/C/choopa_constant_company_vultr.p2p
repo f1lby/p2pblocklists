@@ -1,7 +1,7 @@
 8.9.5.0-8.9.5.255 choopa/constant company / vultr:8.9.5.0-8.9.5.255
 23.142.82.0-23.142.84.255 vultr.US 30October2024:23.142.82.0-23.142.84.255
 45.32.0.0-45.32.255.255 choopa/constant company / vultr:45.32.0.0-45.32.255.255
-45.63.0.0-45.63.127.255 choopa/constant company / vultr:45.63.0.0-45.63.127.255
+45.63.0.0-45.63.127.255 choopa/constant company / vultr.US 19May2025:45.63.0.0-45.63.127.255
 45.76.0.0-45.77.255.255 choopa/constant company / vultr:45.76.0.0-45.77.255.255
 64.176.0.0-64.177.255.255  choopa/constant company 13Feb2024:64.176.0.0-64.177.255.255
 65.20.64.0-65.20.127.255 choopa/constant company 07Nov2023:65.20.64.0-65.20.127.255
