@@ -46,6 +46,13 @@ The lists can be adapted to suit your needs and the information within applied t
 **NOTE4: The file RESERVED.p2p refers to IP addresses that are reserved and there would not normally be a reason for you to manually assign ANY of these IP address ranges.**
 
 **NOTE5: If you find your IP address(es) listed here, be assured that all information was discovered using OSINT methodologies including WHOIS, Google or a bit of reverse DNS...**
+
+**NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty I don't consider this as being very helpful, so all IP addresses listed as attributed to a country. 'If you shared your data with an entity, it would be expected to know which country the IP address resides at. This would indicate the data custodian and their country.**
+
+**NOTE7: Some WHOIS records can contradict others. So for example an IP address could be recorded, but when a lookup is performed a few octets up, a whole netblock can be recorded to a dofferent country or provider. In these instances the author has tried to perform additional research to get a better understanding of the data provided.**
+
+
+
 <br><br><br>
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably.  Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also sometimes, WHOIS records state a specific country, and a traceroute proves otherwise, but of course this may be due to dynamic routing.... Everything listed here was recorded from a United Kingdom IP address... My hovercraft is full of eels.
 <br><br>
