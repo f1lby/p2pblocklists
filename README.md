@@ -41,13 +41,13 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE2: The IPv4 address space allows for a maximum of _4,294,967,296_ IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are _3,684,258,432_.**
 
-**NOTE3: The file _UNASSIGNED.p2p_ refers to IP addresses that are not assigned to any organisation. You would not normally expect any traffic from these ranges.**
+**NOTE3: The file _UNASSIGNED.p2p_ refers to IP addresses that are not assigned to any organisation. It is not expected to receive any traffic from these ranges.**
 
-**NOTE4: The file RESERVED.p2p refers to IP addresses that are reserved and there would not normally be a reason for you to manually assign ANY of these IP address ranges.**
+**NOTE4: The file RESERVED.p2p refers to IP addresses that are reserved and there would not normally be any reason for any of these IP address ranges to be assigned to a public Internet-facing interface.**
 
 **NOTE5: If you find your IP address(es) listed here, be assured that all information was discovered using OSINT methodologies including WHOIS, Google or a bit of reverse DNS...**
 
-**NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty perspective, I don't consider this as being very helpful, so all IP addresses listed are attributed to a country. If you shared your data with an entity, it would be expected to know which country the IP address resides at which would indicate the data custodian and their country.**
+**NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty perspective its not considered as being very helpful, so all IP addresses listed are attributed to a country. If you shared data with an entity over the public Internet, it would be expected to know which country the IP address resides at which would indicate the data custodian and their country.**
 
 **NOTE7: Some WHOIS records can contradict others. So for example an IP address could be recorded, but when a lookup is performed a few octets up, a whole netblock can be recorded to a different country or provider. In these instances the author has tried to perform additional research to get a better understanding of the data provided.**
 
