@@ -47,9 +47,9 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE5: If you find your IP address(es) listed here, be assured that all information was discovered using OSINT methodologies including WHOIS, Google or a bit of reverse DNS...**
 
-**NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty I don't consider this as being very helpful, so all IP addresses listed as attributed to a country. 'If you shared your data with an entity, it would be expected to know which country the IP address resides at. This would indicate the data custodian and their country.**
+**NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty perspective, I don't consider this as being very helpful, so all IP addresses listed are attributed to a country. If you shared your data with an entity, it would be expected to know which country the IP address resides at which would indicate the data custodian and their country.**
 
-**NOTE7: Some WHOIS records can contradict others. So for example an IP address could be recorded, but when a lookup is performed a few octets up, a whole netblock can be recorded to a dofferent country or provider. In these instances the author has tried to perform additional research to get a better understanding of the data provided.**
+**NOTE7: Some WHOIS records can contradict others. So for example an IP address could be recorded, but when a lookup is performed a few octets up, a whole netblock can be recorded to a different country or provider. In these instances the author has tried to perform additional research to get a better understanding of the data provided.**
 
 
 
