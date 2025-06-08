@@ -5438,12 +5438,11 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 158.222.0.0-158.222.15.255 netirons.US:158.222.0.0-158.222.15.255
 158.222.128.0-158.222.255.255 time warner cable.US 20Dec2016:158.222.128.0-158.222.255.255
 159.1.0.0-159.1.255.255 Washington Department of Labor and Industries.US 10October2024:159.1.0.0-159.1.255.255
-159.3.0.0-159.3.255.255 The CIT Group.US 10October2024:159.3.0.0-159.3.255.255
-159.4.0.0-159.4.255.255 Aerojet Electronic Systems Div.US 10October2024:159.4.0.0-159.4.255.255
-159.5.0.0-159.5.255.255 Bank of America.US 10October2024:159.5.0.0-159.5.255.255
-quickwebsolutions.US subscriber in India:159.8.30.66-159.8.30.66
-159.9.0.0-159.9.255.255 El Paso Natural Gas Company.US 10October2024:159.9.0.0-159.9.255.255
-159.10.0.0-159.10.255.255 cna.US 10October2024:159.10.0.0-159.10.255.255
+159.3.0.0-159.3.255.255 First-Citizens Bank & Trust Company.US 08June2025:159.3.0.0-159.3.255.255
+159.4.0.0-159.4.255.255 Aerojet Electronic Systems Div.US 08June2025:159.4.0.0-159.4.255.255
+159.5.0.0-159.5.255.255 Bank of America.US 08June2025:159.5.0.0-159.5.255.255
+159.9.0.0-159.9.255.255 El Paso Natural Gas Company.US 08June2025:159.9.0.0-159.9.255.255
+159.10.0.0-159.10.255.255 cna.US 08June2025:159.10.0.0-159.10.255.255
 159.13.0.0-159.13.127.255 Oracle Corporation.US 10October2024:159.13.0.0-159.13.127.255
 159.14.0.0-159.14.255.255 The Children's Hospital of Philadelphia.US 10October2024:159.14.0.0-159.14.255.255
 159.17.0.0-159.17.255.255 Citigroup Inc.US 10October2024:159.17.0.0-159.17.255.255
@@ -5653,6 +5652,8 @@ quickwebsolutions.US subscriber in India:159.8.30.66-159.8.30.66
 164.121.0.0-164.121.255.255 Deere & Company/johndeere.US 26March2025:164.121.0.0-164.121.255.255
 164.122.0.0-164.122.255.255 Air Force Systems Networking.MIL.US 26March2025:164.122.0.0-164.122.255.255
 164.123.0.0-164.123.255.255 Phillips 66 Company.US 26March2025:164.123.0.0-164.123.255.255
+165.1.0.0-165.1.63.255 The Associated Press.US 08June2025:165.1.0.0-165.1.63.255
+165.1.64.0-165.1.127.255 Oracle Corporation.US 08June2025:165.1.64.0-165.1.127.255
 165.13.0.0-165.13.255.255 U.S. Agency for International Development.gov.US 16February2025:165.13.0.0-165.13.255.255
 165.22.0.0-165.22.255.255 digitalocean.US 20March2025:165.22.0.0-165.22.255.255
 165.23.0.0-165.23.255.255 Midcontinent Communications/Midco.US 11September2024:165.23.0.0-165.23.255.255
