@@ -3182,7 +3182,8 @@
 69.4.32.0-69.4.47.255 New Age Consulting Service, Inc.US 10June2025:69.4.32.0-69.4.47.255
 69.4.48.0-69.4.63.255 Hill Country Telephone Cooperative, Inc.US 10June2025:69.4.48.0-69.4.63.255
 69.4.64.0-69.4.79.255 PCD Network Solutions.US 10June2025:69.4.64.0-69.4.79.255
-69.4.128.0-69.4.159.255 consolidated communications.US 02Oct2017:69.4.128.0-69.4.159.255
+69.4.96.0-69.4.127.255 Airstream Communications.US 12June2025:69.4.96.0-69.4.127.255
+69.4.128.0-69.4.159.255 consolidated communications.US 12June2025:69.4.128.0-69.4.159.255
 69.7.192.0/24 cimco communications.US 03Nov2017:69.7.192.0-69.7.192.255
 69.9.48.0-69.9.63.255 jab wireless.US 19Dec2016:69.9.48.0-69.9.63.255
 69.9.160.0-69.9.191.255 voxel.US 23June2015:69.9.160.0-69.9.191.255
