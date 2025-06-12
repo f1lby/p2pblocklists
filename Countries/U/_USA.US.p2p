@@ -5759,6 +5759,7 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 164.123.0.0-164.123.255.255 Phillips 66 Company.US 26March2025:164.123.0.0-164.123.255.255
 165.1.0.0-165.1.63.255 The Associated Press.US 08June2025:165.1.0.0-165.1.63.255
 165.1.64.0-165.1.127.255 Oracle Corporation.US 08June2025:165.1.64.0-165.1.127.255
+165.1.128.0-165.1.255.255 Palo Alto Networks.US 12June2025:165.1.128.0-165.1.255.255
 165.13.0.0-165.13.255.255 U.S. Agency for International Development.gov.US 16February2025:165.13.0.0-165.13.255.255
 165.22.0.0-165.22.255.255 digitalocean.US 20March2025:165.22.0.0-165.22.255.255
 165.23.0.0-165.23.255.255 Midcontinent Communications/Midco.US 11September2024:165.23.0.0-165.23.255.255
@@ -5814,6 +5815,7 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 166.93.0.0-166.93.255.255 Synoptek.US 11June2025:166.93.0.0-166.93.255.255
 166.94.0.0-166.94.255.255 Fairfax County Government.GOV.US 11June2025:166.94.0.0-166.94.255.255
 166.95.0.0-166.95.255.255 Mallinckrodt.US 11June2025:166.95.0.0-166.95.255.255
+166.96.0.0-166.96.255.255 U.S. Department of Labor.DOL.GOV.US 12June2025:166.96.0.0-166.96.255.255
 166.102.0.0/16 windstream.US 05Dec2016:166.102.0.0-166.102.255.255
 166.128.0.0-166.255.255.255 wirelessdataspco.org/Wireless Data Service Provider Corporation.US 20November2024:166.128.0.0-166.255.255.255
 167.1.0.0-167.1.255.255 Concentrix CVG Corporation.US 25February2025:167.1.0.0-167.1.255.255
