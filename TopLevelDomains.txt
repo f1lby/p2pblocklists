@@ -30,8 +30,9 @@
 .BY  =  Belarus
 .BZ  =  Belize
 .CA  =  Canada
-.CD  =  Congo
+.CD  =  Democratic Republic of the Congo (formerly Zaire)
 .CF  =  Central African Republic
+.CG  =  Republic of the Congo
 .CH  =  Switzerland
 .CI  =  Cote D'Ivorie
 .CK  =  Cook Islands
