@@ -89,6 +89,7 @@
 .GN  =  Guinea
 .GP  =  Guadeloupe
 .GR  =  Greece
+.GS  =  South Georgia and the South Sandwich Islands
 .GT  =  Guatemala
 .GU  =  Guam
 .GW  =  Guinea-Bissau
@@ -202,6 +203,7 @@
 .SN  =  Senegal
 .SO  =  Solomon Islands
 .SR  =  Surinam
+.SS  =  South Sudan
 .ST  =  São Tomé and Príncipe
 .SU  =  Soviet Union (now Russia - see.RU)
 .SV  =  San Salvador
