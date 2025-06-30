@@ -178,6 +178,7 @@
 .PH  =  Philippines
 .PK  =  Pakistan
 .PL  =  Poland
+.PM  =  Saint Pierre and Miquelon
 .PN  =  Pitcairn Islands
 .PR  =  Puertorico
 .PS  =  Palistine
