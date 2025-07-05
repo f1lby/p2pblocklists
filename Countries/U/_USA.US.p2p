@@ -119,7 +119,8 @@
 5.255.61.0-5.255.63.255 geocom/fusehosting.US 06June2025:5.255.61.0-5.255.63.255
 6.0.0.0-6.255.255.255. Headquarters, USAISC US Army.US.MIL 19February2925:6.0.0.0-6.255.255.255
 7.0.0.0-7.255.255.255 U.S. Department of Defense DoD Network Information Center.US.MIL 19February2025:7.0.0.0-7.255.255.255
-8.0.0.0-8.8.3.255 centurylink/level3.US 05August2024:8.0.0.0-8.8.4.255
+8.0.0.0-8.8.3.255 centurylink/level3.US 05July2025:8.0.0.0-8.8.3.255
+8.8.4.0-8.8.4.255 Google LLC.US 05July2025:8.8.4.0-8.8.4.255
 8.8.5.0-8.8.7.255 centurylink/level3.US 05August2024:8.8.5.0-8.8.7.255
 8.8.9.0-8.127.255.255 centurylink/Level3.US 05August2024:8.8.9.0-8.127.255.255
 8.192.0.0-8.207.255.255 level3/centurylink.US 05August2024:8.192.0.0-8.207.255.255
@@ -4193,6 +4194,8 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 94.26.27.0-94.26.27.255 Turnkey Internet.US 04July2025:94.26.27.0-94.26.27.255
 94.26.31.0-94.26.31.255 Turnkey Internet.US 04July2025:94.26.31.0-94.26.31.255
 94.26.44.0-94.26.44.255 Turnkey Internet.US 04July2025:94.26.44.0-94.26.44.255
+94.26.46.0-94.26.47.255 Turnkey Internet Inc.US 04July2025:94.26.46.0-94.26.47.255
+94.26.64.0-94.26.65.255 Lunarnaut.US 04July2025:94.26.64.0-94.26.65.255
 94.103.127.0-94.103.127.255 fuse hosting.US 30May2024:94.103.127.0-94.103.127.255
 94.156.104.0-94.156.104.255 cheapyhost.US 08October2024:94.156.104.0-94.156.104.255
 94.156.166.0-94.156.166.255 cheapy.host.US 03January2025:94.156.166.0-94.156.166.255
