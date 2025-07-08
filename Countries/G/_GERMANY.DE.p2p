@@ -617,6 +617,7 @@
 129.13.0.0-129.13.255.255 Karlsruhe Institute of Technology.DE 08April2025:129.13.0.0-129.13.255.255
 129.26.0.0-129.26.255.255 Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung.DE 16April2025:129.26.0.0-129.26.255.255
 129.206.0.0/16 ruprecht university.DE:129.206.0.0-129.206.255.255
+130.0.16.0-130.0.23.255 q.beyond.DE 08July2025:130.0.16.0-130.0.23.255
 130.180.0.0-130.180.63.255 vodafone.DE 23Aug2023:130.180.0.0-130.180.127.255
 130.255.184.0-130.255.191.255 bradler & krantz.DE 03June2016:130.255.184.0-130.255.191.255
 131.159.0.0-131.159.255.255 Technical University of Munich.DE 09May2024:131.159.0.0-131.159.255.255
@@ -638,9 +639,9 @@
 134.2.0.0-134.2.255.255 Eberhard Karls Universitaet Tuebingen.DE 26June2025:134.2.0.0-134.2.255.255
 134.3.0.0-134.3.255.255 vodafone.DE 26June2025:134.3.0.0-134.3.255.255
 134.19.0.0-134.19.127.255 Vitroconnect.DE 03July2025:134.19.0.0-134.19.127.255
-134.28.0.0-134.28.255.255 Technische Universitaet Hamburg/dfn.DE 04December2024:134.28.0.0-134.28.255.255
-134.30.0.0-134.30.255.255 Helmholtz Zentrum Berlin fuer Materialien und Energie GmbH/dfn.DE 04December2024:134.30.0.0-134.30.255.255
-134.34.0.0/16 konstanz university.DE:134.34.0.0-134.34.255.255
+134.28.0.0-134.28.255.255 Technische Universitaet Hamburg/dfn.DE 08July2025:134.28.0.0-134.28.255.255
+134.30.0.0-134.30.255.255 Helmholtz Zentrum Berlin fuer Materialien und Energie GmbH/dfn.DE 08July2025:134.30.0.0-134.30.255.255
+134.34.0.0-134.34.255.255 Universitaet Konstanz.DE 08July2025:134.34.0.0-134.34.255.255
 134.60.0.0-134.60.255.255 uni-ulm.DE 05December2024:134.60.0.0-134.60.255.255
 134.61.0.0-134.61.255.255 rwth-aachen.DE 05December2024:134.61.0.0-134.61.255.255
 134.76.0.0-134.76.255.255 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH, Goettingen/gwdg.DE 06December2024:134.76.0.0-134.76.255.255
