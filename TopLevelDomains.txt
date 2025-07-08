@@ -62,6 +62,7 @@
 .DM  =  Dominica
 .DO  =  Dominican Republic
 .DZ  =  Algeria
+.EDU =  Education USA Managed by Educause, under the authority of the U.S. Department of Commerce.
 .EC  =  Ecuador
 .EE  =  Estonia
 .EG  =  Egypt
