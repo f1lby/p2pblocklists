@@ -23,6 +23,7 @@
 45.124.58.0/24 dctv.PH 29Sep2017:45.124.58.0-45.124.58.255
 45.124.59.0/24 dctv cable.PH 09Oct2017:45.124.59.0-45.124.59.255
 49.144.0.0-49.151.255.255 Philippine Long Distance Telephone Company/pldt.PH 06June2025:49.144.0.0-49.151.255.255
+49.157.0.0-49.157.255.255 Eastern Telecom Philippines Inc/etpi.PH 12July2025:49.157.0.0-49.157.255.255
 57.72.64.0-57.72.67.255 Orange Business Services.PH 11March2025:57.72.64.0-57.72.67.255
 58.69.0.0-58.69.255.255 Philippine Long Distance Telephone Company/pldt.PH 12March2025:58.69.0.0-58.69.255.255
 58.71.0.0-58.71.127.255 Philippine Long Distance Telephone Company/pldt.PH 12March2025:58.71.0.0-58.71.127.255
