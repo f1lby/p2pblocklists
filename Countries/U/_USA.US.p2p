@@ -5130,7 +5130,9 @@ license.ntitles.net 69.20.35.129 software licence server for corel 14Jan2017:69.
 129.46.0.0-129.46.255.255 Qualcomm, Inc.US 25July2025:129.46.0.0-129.46.255.255
 129.47.0.0-129.47.255.255 Amazon Technologies Inc.US 25July2025:129.47.0.0-129.47.255.255
 129.48.0.0-129.48.255.255 Air Force Systems Networking.US 25July2025:129.48.0.0-129.48.255.255
-129.49.0.0/16 stony brook uni new york.US:129.49.0.0-129.49.255.255
+129.49.0.0-129.49.255.255 State University of New York at Stony Brook.US 25July2025:129.49.0.0-129.49.255.255
+129.50.0.0-129.50.255.255 National Aeronautics and Space Administration/nasa.US 25July2025:129.50.0.0-129.50.255.255
+129.51.0.0-129.51.255.255 Air Force Systems Networking.MIL.US 25July2025:129.51.0.0-129.51.255.255
 129.71.0.0/16 west virginia university.US:129.71.0.0-129.71.255.255
 129.80.0.0-129.80.255.255 Oracle Corporation.US 25February2025:129.80.0.0-129.80.255.255
 129.115.0.0/16 university of texas.US:129.115.0.0-129.115.255.255
