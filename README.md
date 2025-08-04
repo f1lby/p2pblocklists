@@ -2,7 +2,7 @@
 # IPinfo Sample Database offering IP to company lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet'
 
-### ** As of 03 August 2025, this repository has over 2.708 billion public Internet IPv4 addresses mapped.**
+### ** As of 04 August 2025, this repository has over 2.708 billion public Internet IPv4 addresses mapped.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
