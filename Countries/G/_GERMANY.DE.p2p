@@ -338,6 +338,8 @@
 62.40.0.0-62.40.31.255 CANCOM Managed Services/cancom-pironet.DE 12August2025:62.40.0.0-62.40.31.255
 62.41.32.0-62.41.37.255 gtt.DE 12August2025:62.41.32.0-62.41.37.255
 62.41.56.0-62.41.85.255 gtt.US 12August2025:62.41.56.0-62.41.85.255
+62.44.32.0-62.44.33.255 Hamburg Suedamerikanische Dampfschifffahrts-Gesellschaft.DE 12August2025:62.44.32.0-62.44.33.255
+62.44.34.0-62.44.35.255 maersk/Hamburg Suedamerikanische Dampfschifffahrts-Gesellschaft.DE 12August2025:62.44.34.0-62.44.35.255
 62.52.0.0-62.55.255.255 telefonica.DE 22February2025:62.52.0.0-62.55.255.255
 62.67.0.0/16 level3.DE 14Apr2016:62.67.0.0-62.67.255.255
 62.68.0.0-62.68.31.255 sdt.net.DE 02Nov2017:62.68.0.0-62.68.31.255
@@ -369,6 +371,8 @@
 75.119.128.0-75.119.159.255 contabo.DE 01August2025:75.119.128.0-75.119.159.255
 77.0.0.0-77.15.255.255 telefonica O2.DE 10June2025:77.0.0.0-77.15.255.255
 77.20.0.0-77.25.255.255 vodafone/kabel deutscheland.DE 13June2025:77.20.0.0-77.25.255.255
+77.36.58.0-77.36.58.255 Welt-Net-Broadband.DE 12August2025:77.36.58.0-77.36.58.255
+77.37.0.0-77.37.31.255 ipffm.DE 12August2025:77.37.0.0-77.37.31.255
 77.47.0.0-77.47.127.255 mip-platform.net/TeleColumbus.DE 30May2024:77.47.0.0-77.47.127.255
 77.72.18.0-77.72.18.255 Melbikomas/melbicom.DE 16June2025:77.72.18.0-77.72.18.255
 77.90.0.0-77.90.63.255 ghostnet.DE 02July2024:77.90.0.0-77.90.63.255
