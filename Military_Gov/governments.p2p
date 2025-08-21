@@ -54,7 +54,7 @@
 61.249.92.0-61.249.95.255 Korea Internet Security Agency.KR 20February2025:61.249.92.0-61.249.95.255
 61.252.48.0-61.252.63.255 National Infomation Society Agency.KR 20February2025:61.252.48.0-61.252.63.255
 61.252.76.0-61.252.79.255 Korea Internet Security Agency.KR 20February2025:61.252.76.0-61.252.79.255
-62.62.0.0-62.62.127.255 European Commission.LU 20February2025:62.62.0.0-62.62.127.255
+62.62.0.0-62.62.127.255 European Commission.LU 21August2025:62.62.0.0-62.62.127.255
 63.141.16.0-63.141.31.255 City of Wyandotte.GOV.US 18July2025:63.141.16.0-63.141.31.255
 64.4.176.0-64.4.191.255 Clark County WA.GOV.US 28March2025:64.4.176.0-64.4.191.255
 64.8.128.0-64.8.191.255 State of Minnesota.GOV.US 06May2025:64.8.128.0-64.8.191.255
@@ -68,6 +68,7 @@
 74.113.204.0-74.113.207.255 Federal Retirement Thrift Investment Board.GOV.US 20August2025:74.113.204.0-74.113.207.255
 75.98.112.0-75.98.127.255 City of North Kansas City.US 01August2025:75.98.112.0-75.98.127.255
 76.9.128.0-76.9.159.255 Fairfax County NCR.GOV.US 08August2025:76.9.128.0-76.9.159.255
+78.24.112.0-78.24.112.255 Kent County Council.GOV.UK 20August2025:78.24.112.0-78.24.112.255
 81.160.0.0-81.160.127.255 Bundesministerium des Innern und fuer Heimat.DE 15July2024:81.160.0.0-81.160.127.255
 92.42.56.0-92.42.63.255 The Borough of Telford and Wrekin Council.GOV.UK 17January2025:92.42.56.0-92.42.63.255
 95.130.144.0-95.130.151.255 Warwickshire County Council.UK 13February2025:95.130.144.0-95.130.151.255
