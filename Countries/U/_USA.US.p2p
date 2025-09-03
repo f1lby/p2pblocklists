@@ -7694,7 +7694,9 @@
 165.6.0.0-165.6.255.255 University of Tennessee Computing Center.US 27June2025:165.6.0.0-165.6.255.255
 165.7.0.0-165.7.255.255 Refinitiv.US 27June2025:165.7.0.0-165.7.255.255
 165.13.0.0-165.13.255.255 U.S. Agency for International Development.GOV.US 27June2025:165.13.0.0-165.13.255.255
-165.22.0.0-165.22.255.255 digitalocean.US 20March2025:165.22.0.0-165.22.255.255
+165.19.0.0-165.19.255.255 safeway.US 03September2025:165.19.0.0-165.19.255.255
+165.20.0.0-165.20.255.255 Northwestern Memorial Hospital.US 03September2025:165.20.0.0-165.20.255.255
+165.22.0.0-165.22.255.255 digitalocean.US 01September2025:165.22.0.0-165.22.255.255
 165.23.0.0-165.23.255.255 Midcontinent Communications/Midco.US 11September2024:165.23.0.0-165.23.255.255
 165.138.0.0/16 indiana dept of edu.US:165.138.0.0-165.138.255.255
 165.139.0.0/16 indiana dept of education.US:165.139.0.0-165.139.255.255
