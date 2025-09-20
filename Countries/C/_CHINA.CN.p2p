@@ -1010,6 +1010,10 @@
 121.47.0.0-121.47.255.255 Development & Research Center of State Council Net.CN 14May2025:121.47.0.0-121.47.255.255
 121.48.0.0-121.49.255.255 China Education and Research Network/cernet.CN 14May2925:121.48.0.0-121.49.255.255
 121.50.8.0-121.50.15.255 China Telecom.CN 14May2025:121.50.8.0-121.50.15.255
+121.51.0.0-121.51.255.255 Shenzhen Tencent Computer Systems Company Limited.CN 19September2025:121.51.0.0-121.51.255.255
+121.52.160.0-121.52.191.255 Tsinghua Science Park Internet Data Center/cernet.CN 19September2025:121.52.160.0-121.52.191.255
+121.52.208.0-121.52.223.255 Beijing Topnew Info&Tech co., LTD.CN 19September2025:121.52.208.0-121.52.223.255
+121.52.224.0-121.52.255.255 Hangzhou Netbank Technologies co.,LTD.CN 19September2025:121.52.224.0-121.52.255.255
 121.56.0.0-121.57.255.255 chinanet.CN 10Apr2017:121.56.0.0-121.57.255.255
 121.60.0.0-121.63.255.255 chinatelecom.CN 22Jan2024:121.60.0.0-121.63.255.255
 121.89.0.0-121.89.255.255 alisoft.CN 24Oct2023:121.89.0.0-121.89.255.255
