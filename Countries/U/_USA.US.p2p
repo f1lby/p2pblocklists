@@ -8282,6 +8282,13 @@
 165.82.0.0-165.82.255.255 Haverford College.US 15September2025:165.82.0.0-165.82.255.255
 165.83.0.0-165.83.255.255 National Park Service.US 15September2025:165.83.0.0-165.83.255.255
 165.84.224.0-165.84.231.255 U.S. Marshals Service in accordance with the Final Order of Forfeiture.US 15September2025:165.84.224.0-165.84.231.255
+165.85.0.0-165.85.255.255 Palo Alto Networks, Inc.US 23September2025:165.85.0.0-165.85.255.255
+165.87.0.0-165.87.255.255 AT&T Enterprises, LLC.US 23September2025:165.87.0.0-165.87.255.255
+165.88.0.0-165.88.255.255 Revvity, Inc.US 23September2025:165.88.0.0-165.88.255.255
+165.89.0.0-165.89.255.255 Bristol-Myers Squibb Company.US 23September2025:165.89.0.0-165.89.255.255
+165.91.0.0-165.91.255.255 Texas A&M University.US 23September2025:165.91.0.0-165.91.255.255
+165.92.0.0-165.92.255.255 National Oceanic and Atmospheric Administration.US 23September2025:165.92.0.0-165.92.255.255
+165.94.0.0-165.94.255.255 Amazon Technologies Inc.US 23September2025:165.94.0.0-165.94.255.255
 165.138.0.0/16 indiana dept of edu.US:165.138.0.0-165.138.255.255
 165.139.0.0/16 indiana dept of education.US:165.139.0.0-165.139.255.255
 165.159.0.0-165.159.255.255 General Dynamics Mission Systems.US 03June2024:165.159.0.0-165.159.255.255
@@ -9193,6 +9200,7 @@
 174.144.0.0-174.159.255.255 T-Mobile USA, Inc.US 23September2025:174.144.0.0-174.159.255.255
 174.160.0.0-174.191.255.255 Comcast Cable Communications, LLC.US 23September2025:174.160.0.0-174.191.255.255
 174.192.0.0-174.255.255.255 Verizon Business.US 23September2025:174.192.0.0-174.255.255.255
+175.100.165.0-175.100.165.255 vxroutes.US 23September2025:175.100.165.0-175.100.165.255
 177.0.64.0-177.0.95.255 Globenet Cabos Submarinos America Inc.US 04May2025:177.0.64.0-177.0.95.255
 177.0.128.0-177.0.143.255 Globenet Cabos Submarinos America Inc.US 16May2025:177.0.128.0-177.0.143.255
 177.3.32.0-177.3.47.255 Globenet Cabos Submarinos America Inc.US 03July2025:177.3.32.0-177.3.47.255
