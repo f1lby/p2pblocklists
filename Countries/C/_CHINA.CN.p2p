@@ -988,7 +988,12 @@
 120.76.0.0-120.79.255.255 alisoft/Aliyun Computing.CN 13June2025:120.76.0.0-120.79.255.255
 120.80.0.0-120.87.255.255 China Unicom.CN 13June2025:120.80.0.0-120.87.255.255
 120.88.8.0-120.88.15.255 chinatelecom.CN 16June2025:120.88.8.0-120.88.15.255
-120.92.0.0/16 kingsoft cloud.CN 10Apr2017:120.92.0.0-120.92.255.255
+120.90.0.0-120.91.255.255 China TieTong Telecommunications Corporation/chinamobile.CN 24September2025:120.90.0.0-120.91.255.255
+120.92.0.0-120.92.239.255 Beijing Kingsoft Cloud Internet Technology Co., Ltd.CN 24September2025:120.92.0.0-120.92.239.255
+120.92.240.0-120.92.255.255 Beijing Yunlin Network Technology Co.,Ltd.CN 24September2025:120.92.240.0-120.92.255.255
+120.94.0.0-120.95.255.255 China Education and Research Network/cernet.CN 24September2025:120.94.0.0-120.95.255.255
+120.128.0.0-120.130.255.255 Bytedance/Beijing Volcano Engine Technology Co., Ltd.CN 24September2025:120.128.0.0-120.130.255.255
+120.131.0.0-120.131.15.255 Beijing Kingsoft Cloud Internet Technology Co., Ltd.CN 24September2025:120.131.0.0-120.131.15.255
 120.131.124.0-120.131.127.255 Beijing Yunlin Network Technology/pc365.com.CN 01March2025:120.131.124.0-120.131.127.255
 120.132.0.0/16 cloudvsp.CN 06Dec2016:120.132.0.0-120.132.255.255
 120.133.0.0-120.133.255.255 21vianet.CN 24Jan2023:120.133.0.0-120.133.255.255
