@@ -733,7 +733,7 @@
 134.34.0.0-134.34.255.255 Universitaet Konstanz.DE 08July2025:134.34.0.0-134.34.255.255
 134.60.0.0-134.60.255.255 uni-ulm.DE 02September2025:134.60.0.0-134.60.255.255
 134.61.0.0-134.61.255.255 rwth-aachen.DE 02September2025:134.61.0.0-134.61.255.255
-134.76.0.0-134.76.255.255 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH, Goettingen/gwdg.DE 06December2024:134.76.0.0-134.76.255.255
+134.76.0.0-134.76.255.255 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH, Goettingen/gwdg.DE 27September2025:134.76.0.0-134.76.255.255
 134.81.0.0-134.81.255.255 Infraserv GmbH & Co. Höchst KG.DE 06December2024:134.81.0.0-134.81.255.255
 134.91.0.0-134.91.255.255 Universitaet Duisburg-Essen.DE 06December2024:134.91.0.0-134.91.255.255
 134.92.0.0-134.92.255.255 Bundesministerium des Innern und fuer Heimat.DE 06December2024:134.92.0.0-134.92.255.255
@@ -764,6 +764,7 @@
 134.247.0.0/16 munair.DE:134.247.0.0-134.247.255.255
 134.255.180.0-134.255.183.255 contabo.DE 02April2025:134.255.180.0-134.255.183.255
 134.255.219.0-134.255.219.255 ZAP-Hosting GmbH.DE 05January2025:134.255.219.0-134.255.219.255
+136.144.26.0-136.144.26.255 VPN Consumer.DE 27September2025:136.144.26.0-136.144.26.255
 136.243.0.0/16 hetzner.DE:136.243.0.0-136.243.255.255
 137.133.12.0-137.133.15.255 abb.DE 10July2024:137.133.12.0-137.133.15.255
 137.193.0.0-137.193.255.255 dfn/Universitaet der Bundeswehr Muenchen.DE 10July2024:137.193.0.0-137.193.255.255
