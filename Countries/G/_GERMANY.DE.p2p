@@ -787,6 +787,8 @@
 139.66.0.0-139.66.255.255 sap.DE 18June2024:139.66.0.0-139.66.255.255
 139.75.0.0-139.75.255.255 Alfred-Wegener-Institut.DE 18June2024:139.75.0.0-139.75.255.255
 139.174.0.0/16 claustal university.DE:139.174.0.0-139.174.255.255
+140.171.0.0-140.171.255.255 ZF Friedrichshafen.DE 28September2025:140.171.0.0-140.171.255.255
+140.181.0.0-140.181.255.255 GSI Helmholtzzentrum fuer Schwerionenforschung GmbH.DE 28September2025:140.181.0.0-140.181.255.255
 141.0.16.0-141.0.23.255 domainfactory.DE 17May2025:141.0.16.0-141.0.23.255
 141.2.0.0-141.2.255.255 Johann Wolfgang Goethe-Universitaet Frankfurt.DE 08June2024:141.2.0.0-141.2.255.255
 141.3.0.0-141.3.255.255 Karlsruhe Institute of Technology.DE 08June2024:141.3.0.0-141.3.255.255
