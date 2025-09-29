@@ -736,7 +736,7 @@
 134.60.0.0-134.60.255.255 uni-ulm.DE 02September2025:134.60.0.0-134.60.255.255
 134.61.0.0-134.61.255.255 rwth-aachen.DE 02September2025:134.61.0.0-134.61.255.255
 134.76.0.0-134.76.255.255 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH, Goettingen/gwdg.DE 27September2025:134.76.0.0-134.76.255.255
-134.81.0.0-134.81.255.255 Infraserv GmbH & Co. Höchst KG.DE 06December2024:134.81.0.0-134.81.255.255
+134.81.0.0-134.81.255.255 Infraserv GmbH & Co. Höchst.DE 29September2025:134.81.0.0-134.81.255.255
 134.91.0.0-134.91.255.255 Universitaet Duisburg-Essen.DE 06December2024:134.91.0.0-134.91.255.255
 134.92.0.0-134.92.255.255 Bundesministerium des Innern und fuer Heimat.DE 06December2024:134.92.0.0-134.92.255.255
 134.93.0.0-134.93.255.255 Johannes Gutenberg-Universitaet, Mainz.DE 06December2024:134.93.0.0-134.93.255.255
@@ -878,6 +878,7 @@
 158.220.112.0-158.220.127.255 contabo.DE 02February2025:158.220.112.0-158.220.127.255
 158.255.214.0/24 edis kvm.DE 24Mar2016:158.255.214.0-158.255.214.255
 159.25.0.0-159.25.255.255 nrw/GFTA/CSL Computer Service Langenbach GmbH.DE 11July2025:159.25.0.0-159.25.255.255
+159.48.12.0-159.48.15.255 maxcluster.DE 29September2025:159.48.12.0-159.48.15.255
 159.100.0.0-159.100.31.255 firstcolo.DE 14June2024:159.100.0.0-159.100.31.255
 160.44.0.0-160.44.255.255 telekom/T-Systems International GmbH.DE 25November2024:160.44.0.0-160.44.255.255
 160.45.0.0-160.45.255.255 Freie Universitaet Berlin.DE 25November2024:160.45.0.0-160.45.255.255
