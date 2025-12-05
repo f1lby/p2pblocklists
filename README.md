@@ -1,4 +1,6 @@
-# Mapping The Entire IPv4 Internet Address Space - "Going where no man has gone before".
+# Mapping The Entire IPv4 Internet Address Space.
+
+"Going where no man has gone before".
 # IPinfo - IP to Company / Provider lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 
