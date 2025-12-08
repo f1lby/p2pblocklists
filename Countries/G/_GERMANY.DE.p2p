@@ -752,6 +752,7 @@
 128.0.144.0-128.0.155.255 my-wire/mywire.DE 18October2025:128.0.144.0-128.0.155.255
 128.0.192.0-128.0.199.255 SaSG GmbH & Co.DE 07December2025:128.0.192.0-128.0.199.255
 128.7.0.0-128.7.255.255 Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung.DE 08December2025:128.7.0.0-128.7.255.255
+128.65.64.0-128.65.95.255 Hughes Network Systems.DE 08December2025:128.65.64.0-128.65.95.255
 128.65.208.0-128.65.223.255 link11.DE 20January2025:128.65.208.0-128.65.223.255
 128.176.0.0/16 muenster university.DE:128.176.0.0-128.176.255.255
 129.13.0.0-129.13.255.255 Karlsruhe Institute of Technology.DE 08April2025:129.13.0.0-129.13.255.255
