@@ -5,7 +5,7 @@
 # IPinfo - IP to Company / Provider lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 
-### ** As of 25 DECEMBER 2025 (Christmas Day), this repository had over 2.856 billion public Internet IPv4 addresses mapped.**
+### ** As of 25 DECEMBER 2025 (Christmas Day), this repository had over 2.857 billion public Internet IPv4 addresses mapped.**
 ### ** HAPPY CHRISTMAS **
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
