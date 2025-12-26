@@ -4833,6 +4833,7 @@
 69.30.91.0-69.30.91.255 Infinite Campus, Incorporated.US 25December2025:69.30.91.0-69.30.91.255
 69.30.92.0-69.30.93.255 Lynk.US 25December2025:69.30.92.0-69.30.93.255
 69.30.94.0-69.30.127.255 Digital Fortress.US 25December2025:69.30.94.0-69.30.127.255
+69.30.128.0-69.30.191.255 Windstream Communications LLC.US 26December2025:69.30.128.0-69.30.191.255
 69.30.192.0-69.30.255.255 wholesaleinternet.US:69.30.192.0-69.30.255.255
 69.31.144.0-69.31.159.255 reserve long distance company.US 06Dec2017:69.31.144.0-69.31.159.255
 69.35.0.0/16 direcpc / hughes.US:69.35.0.0-69.35.255.255
@@ -5603,7 +5604,7 @@
 73.0.0.0-73.255.255.255 Comcast Cable Communications.US 10June2025:73.0.0.0-73.255.255.255
 74.0.0.0-74.3.127.255 megapath.US:74.0.0.0-74.3.127.255
 74.4.0.0-74.5.255.255 embarq.US:74.4.0.0-74.5.255.255
-74.7.0.0/16 cbeyond communications.US:74.7.0.0-74.7.255.255
+74.7.0.0-74.7.255.255 microsoft.com.US 26December2025:74.7.0.0-74.7.255.255
 74.8.0.0-74.11.255.255 paetec/windstream.US 06July2023:74.8.0.0-74.11.255.255
 74.16.0.0-74.31.255.255 Comcast Cable Communications.US 11April2025:74.16.0.0-74.31.255.255
 74.32.0.0-74.47.255.255 frontier communications.US 11April2025:74.32.0.0-74.47.255.255
