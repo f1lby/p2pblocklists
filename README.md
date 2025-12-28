@@ -5,7 +5,7 @@
 # IPinfo - IP to Company / Provider lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 
-### ** As of 27 DECEMBER 2025, this repository had over 2.857 billion public Internet IPv4 addresses mapped.**
+### ** As of 28 DECEMBER 2025, this repository had over 2.857 billion public Internet IPv4 addresses mapped.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
@@ -61,3 +61,5 @@ Disclaimer; No warranty is given for any inaccuracies, loss of service or otherw
 <br><br>
 
 Also - see _https://en.wikipedia.org/wiki/PeerGuardian_
+<br><br>
+Best Regards, F1lby. 'The curator of all things IPV4'
