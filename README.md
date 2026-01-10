@@ -1,11 +1,11 @@
-# Mapping The Entire IPv4 Internet Address Space Project.
+# A one man project mapping The Entire IPv4 Internet Address Space Project - by F1lby.
 
 "Going where no man has gone before .... probably..."
 
 # IPinfo - IP to Company / Provider lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 
-### ** As of 09 JANUARY 2026, this repository had over 2.865 billion public Internet IPv4 addresses mapped.**
+### ** As of 10 JANUARY 2026, this repository had over 2.865 billion public Internet IPv4 addresses mapped.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
@@ -57,7 +57,7 @@ The lists can be adapted to suit your needs and the information within applied t
 https://www.youtube.com/f1lby
 
 <br><br><br>
-Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably.  Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also sometimes, WHOIS records state a specific country, and a traceroute proves otherwise, but of course this may be due to dynamic routing.... Everything listed here was recorded from a United Kingdom IP address... My hovercraft is full of eels.
+Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably.  Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also sometimes, WHOIS records state a specific country, and a traceroute proves otherwise, but of course this may be due to dynamic routing.... Everything listed here was recorded from a United Kingdom IP address... My hovercraft is always full of eels.
 <br><br>
 
 Also - see _https://en.wikipedia.org/wiki/PeerGuardian_
