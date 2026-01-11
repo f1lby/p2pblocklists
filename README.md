@@ -1,11 +1,11 @@
-# A one man project mapping The Entire IPv4 Internet Address Space Project - by F1lby.
-
+# One man's mission to map The Entire IPv4 Internet Address Space Project<br>
+by F1lby.<br><br>
 "Going where no man has gone before .... probably..."
-
+<br>
 # IPinfo - IP to Company / Provider lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 
-### ** As of 10 JANUARY 2026, this repository had over 2.865 billion public Internet IPv4 addresses mapped.**
+### ** As of 11 JANUARY 2026, this repository had over 2.866 billion public Internet IPv4 addresses mapped.**
 
 These files present a large range of public Internet IPv4 provider/country to address lookup.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
