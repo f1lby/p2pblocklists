@@ -1,5 +1,3 @@
-# One man's mission to map the entire IPv4 Internet address space project<br>
-by F1lby.<br><br>
 "Going where no man has gone before .... probably..."
 <br>
 # IPinfo - IP to Company / Provider lookup.
