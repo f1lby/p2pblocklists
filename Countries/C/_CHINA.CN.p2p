@@ -928,8 +928,16 @@
 116.61.0.0-116.61.255.255 Huawei Public Cloud.CN 21April2024:116.61.0.0-116.61.255.255
 116.62.0.0-116.62.255.255 Aliyun Computing.CN 21April2024:116.62.0.0-116.62.255.255
 116.63.0.0-116.63.255.255 Huawei Public Cloud Service.CN 02Sep2023:116.63.0.0-116.63.255.255
-116.70.0.0-116.70.63.255 kuanjienet.CN 16Nov2017:116.70.0.0-116.70.63.255
-116.70.64.0-116.70.127.255 Shaoxing Yun Tong Network Technology.CN 29Feb2024:116.70.64.0-116.70.127.255
+116.68.136.0-116.68.143.255 Beijing Sankuai Cloud Computing Co.,Ltd.CN 03February2026:116.68.136.0-116.68.143.255
+116.68.176.0-116.68.183.255 Beijing Sankuai Cloud Computing Co.,Ltd.CN 03February2026:116.68.176.0-116.68.183.255
+116.69.0.0-116.69.255.255 CNISP-Union Technology (Beijing) Co., Ltd.CN 03February2026:116.69.0.0-116.69.255.255
+116.70.0.0-116.70.63.255 Beijing Volcano Engine Technology Co., Ltd./bytedance.CN 03February2026:116.70.0.0-116.70.63.255
+116.70.64.0-116.70.127.255 Shaoxing Yun Tong Network Technology.CN 03February2026:116.70.64.0-116.70.127.255
+116.76.0.0-116.77.255.255 ShenZhen Topway Video Communication Co. Ltd/topway.CN 03February2026:116.76.0.0-116.77.255.255
+116.78.0.0-116.79.255.255 China United Network Communications Corporation Limited/chinaunicom.CN 03February2026:116.78.0.0-116.79.255.255
+116.85.0.0-116.85.255.255 Beijing Xiaoju Technology Co., Ltd.CN 03February2026:116.85.0.0-116.85.255.255
+116.89.144.0-116.89.159.255 Jinhua Weian InfoTech Co., Ltd.CN 03February2026:116.89.144.0-116.89.159.255
+116.89.240.0-116.89.243.255 Zhengzhou NiPaiYi network of science and Technology Co., Ltd.CN 03February2026:116.89.240.0-116.89.243.255
 116.90.80.0-116.90.95.255 TopnewNET.CN:116.90.80.0-116.90.95.255
 116.95.0.0/16 unicom.CN:116.95.0.0-116.95.255.255
 116.112.0.0-116.115.255.255 cnc group.CN:116.112.0.0-116.115.255.255
