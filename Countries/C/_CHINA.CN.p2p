@@ -1688,7 +1688,17 @@
 210.25.0.0-210.47.255.255 cernet/China Education and Research Network.CN 13January2026:210.25.0.0-210.47.255.255
 210.51.0.0-210.53.255.255 chinaunicom.CN 14January2026:210.51.0.0-210.53.255.255
 210.56.192.0-210.56.223.255 CNISP-Union Technology (Beijing) Co., Ltd.CN 02February2026:210.56.192.0-210.56.223.255
-210.72.0.0/16 cnnic.CN:210.72.0.0-210.72.255.255
+210.72.0.0-210.72.159.255 Computer Network Information Center of Chinese Academy of Sciences.CN 05February2026:210.72.0.0-210.72.159.255
+210.72.160.0-210.72.191.255 China Internet Network Information Center.CN 05February2026:210.72.160.0-210.72.191.255
+210.72.192.0-210.72.223.255 httx.CN 05February2026:210.72.192.0-210.72.223.255
+210.72.224.0-210.72.255.255 FibrLINK Communications Co., Ltd.CN 05February2026:210.72.224.0-210.72.255.255
+210.73.0.0-210.73.63.255 Computer Network Information Center of Chinese Academy of Sciences.CN 05February2026:210.73.0.0-210.73.63.255
+210.73.64.0-210.73.83.255 People's Government of Beijing Municipality.CN 05February2026:210.73.64.0-210.73.83.255
+210.73.84.0-210.73.91.255 Capinfo Company Limited.GOV.CN 05February2026:210.73.84.0-210.73.91.255
+210.73.92.0-210.73.95.255 China Telecom.CN 05February2026:210.73.92.0-210.73.95.255
+210.73.96.0-210.73.127.255 CITIC.CN 05February2026:210.73.96.0-210.73.127.255
+210.73.128.0-210.73.131.255 Jiangsu Science & Technology Information Networks.CN 05February2026:210.73.128.0-210.73.131.255
+210.73.132.0-210.73.132.255 Nantong Science & Technology Information Networks.CN 05February2026:210.73.132.0-210.73.132.255
 210.77.64.0-210.77.91.255 cstnet.CN:210.77.64.0-210.77.91.255
 210.82.0.0-210.83.255.255 unicom.CN:210.82.0.0-210.83.255.255
 210.185.192.0-210.185.255.255 chinanet.CN 15Dec2023:210.185.192.0-210.185.255.255
