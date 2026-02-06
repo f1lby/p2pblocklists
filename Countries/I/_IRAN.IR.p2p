@@ -212,7 +212,13 @@
 91.92.114.0-91.92.114.255 tci.IR 14January2026:91.92.114.0-91.92.114.255
 91.92.121.0-91.92.127.255 tci.IR 22January2026:91.92.121.0-91.92.127.255
 91.92.129.0-91.92.135.255 tci/Telecommunication Company of Tehran.IR 06February2026:91.92.129.0-91.92.135.255
-91.92.192.0-91.92.239.255 tci.IR 26November2025:91.92.192.0-91.92.239.255
+91.92.145.0-91.92.147.255 telecomunication of semnan/tci.IR 06February2026:91.92.145.0-91.92.147.255
+91.92.148.0-91.92.151.255 Telecommunication Company of Kordestan/tci.IR 06February2026:91.92.148.0-91.92.151.255
+91.92.156.0-91.92.159.255 Telecommunication Company of Kordestan/tci.IR 06February2026:91.92.156.0-91.92.159.255
+91.92.164.0-91.92.167.255 Telecommunication Company of Azarbayejan Gharbi/tci.IR 06February2026:91.92.164.0-91.92.167.255
+91.92.172.0-91.92.175.255 Telecommunication Company of Golestan/tci.IR 06February2026:91.92.172.0-91.92.175.255
+91.92.180.0-91.92.191.255 Telecommunication Company of Tehran/tci.IR 06February2026:91.92.180.0-91.92.191.255
+91.92.192.0-91.92.193.255 Telecommunication Company of Boushehr/tci.IR 06February2026:91.92.192.0-91.92.239.255
 91.98.0.0-91.99.255.255 parsonline.IR:91.98.0.0-91.99.255.255
 91.106.64.0-91.106.91.255 badr rayan.IR:91.106.64.0-91.106.91.255
 91.107.128.0-91.107.255.255 asiatech.IR 01Nov2017:91.107.128.0-91.107.255.255
