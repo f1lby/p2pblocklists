@@ -17,7 +17,9 @@
 27.124.13.0-27.124.14.255 ctg server.TW 27Feb2023:27.124.13.0-27.124.15.255
 27.147.0.0-27.147.63.255 Extra-Lan Technologies/elnet.TW 19June2025:27.147.0.0-27.147.63.255
 27.240.0.0-27.247.255.255 Far EasTone Telecommunication/fetnet.TW 19June2025:27.240.0.0-27.247.255.255
-36.224.0.0-36.239.255.255 hinet.TW 21June2024:36.224.0.0-36.239.255.255
+36.50.228.0-36.50.229.255 CoCoDigit Ltd.TW 12February2026:36.50.228.0-36.50.229.255
+36.50.248.0-36.50.249.255 Shi Ji Industrial Co., Ltd.TW 12February2026:36.50.248.0-36.50.249.255
+36.224.0.0-36.239.255.255 hinet/Data Communication Business Group/Chunghwa Telecom Co.,Ltd..TW 12February2026:36.224.0.0-36.239.255.255
 39.1.0.0/16 sonet.TW:39.1.0.0-39.1.255.255
 39.8.0.0-39.15.255.255 fetnet/Far EasTone Telecommunication.TW 31March2025:39.8.0.0-39.15.255.255
 42.0.64.0-42.0.127.255 New Century InfoComm Tech/NCICNET.TW 27March2025:42.0.64.0-42.0.127.255
