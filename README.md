@@ -61,6 +61,6 @@ Disclaimer; No warranty is given for any inaccuracies, loss of service or otherw
 
 Also - see _https://en.wikipedia.org/wiki/PeerGuardian_
 <br><br>
-Best Regards, F1lby. 'The curator of all things IPV4'
+Best Regards, F1lby. 'The curator of all things IPV4 and other stuff'
 <br><br>
 "No subnets were harmed in the making of this repository"
