@@ -33,6 +33,7 @@
 43.229.12.0-43.229.15.255 Bangladesh Computer Council.GOV.BD 17February2026:43.229.12.0-43.229.15.255
 43.229.80.0-43.229.83.255 Andhra Pradesh State FiberNet Limited.GOV.IN 17February2026:43.229.80.0-43.229.83.255
 66.45.14.0-66.45.14.255 Vermont Judiciary/vtcourts.GOV.US 04February2026:66.45.14.0-66.45.14.255
+67.159.199.0-67.159.199.255 Government of Grenada.GOV.GD 16March2026:67.159.199.0-67.159.199.255
 69.48.209.0-69.48.209.255 Queen Creek Police Department.GOV.US 11February2026:69.48.209.0-69.48.209.255
 74.116.24.0-74.116.25.255 County of Kane.GOV.US 07November2025:74.116.24.0-74.116.25.255
 74.117.68.0-74.117.71.255 Manatee County Government.GOV.US 23February2026:74.117.68.0-74.117.71.255
@@ -61,6 +62,8 @@
 123.242.160.0-123.242.191.255 Government Information Network.TH 21January2026:123.242.160.0-123.242.191.255
 123.250.0.0-123.251.255.255 Korea Information Security Agency.GOV.KR 21January2026:123.250.0.0-123.251.255.255
 130.11.0.0-130.11.255.255 Department of Interior United States Geological Survey.GOV.US 19October2025:130.11.0.0-130.11.255.255
+138.6.0.0-138.6.255.255 Uppsala local government.GOV.SE 16March2026:138.6.0.0-138.6.255.255
+138.7.0.0-138.7.255.255 Australian Institute of Marine Science.GOV.AU 16March2026:138.7.0.0-138.7.255.255
 140.241.0.0-140.241.255.255 City of Boston.GOV.US 28ctober2025:140.241.0.0-140.241.255.255
 142.18.0.0-142.18.255.255 Ministry of Government Services.GOV.CA 10October2025:142.18.0.0-142.18.255.255
 142.22.0.0-142.36.255.255 Province of British Columbia.GOV.CA 10October2025:142.22.0.0-142.36.255.255
