@@ -5,7 +5,7 @@
 
 ### ** As of 19 March 2026, this repository had over 2.925 billion public Internet IPv4 addresses mapped.**
 ### ** No AI was used in the creation of these lists.**
-These files present a large range of public Internet IPv4 provider/country to address lookup.
+These files present a large range of public Internet provider/country to IPV4 address lookup capabilities.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
 
 These files are in the .p2p file format which is compatible with Peerblock and Peerguardian.
