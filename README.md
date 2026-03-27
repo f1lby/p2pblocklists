@@ -3,7 +3,7 @@
 # IPinfo - IP to Company / Provider lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 
-### ** As of 25 March 2026, this repository had over 2.934 billion public Internet IPv4 addresses mapped.**
+### ** As of 27 March 2026, this repository had over 2.934 billion public Internet IPv4 addresses mapped.**
 ### ** No AI was used in the creation of these lists.**
 These files present a large range of public Internet provider/country to IPV4 address lookup capabilities.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
@@ -40,7 +40,7 @@ Use cases include;
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
-**NOTE1: Some country lists may not be fully populated due to recording the IPv4 addresses instead against a provider / organisation. Use both the country and the org lists for your maximum enjoyment.**
+**NOTE1: Some country lists in this repository may not be fully populated due to the recording the IPv4 addresses against a provider / organisation instead of a country. Use both the country and the org lists for your maximum enjoyment.**
 
 **NOTE2: The IPv4 address space allows for a maximum of _4,294,967,296_ IP addresses. Once the reserved IPv4 addresses have been deducted from this value, this will give the actual amount of useable public Internet routable IPv4 addresses that can be used. According to the authors bad math ;-), the calculated number of actual usable routable public Internet IPv4 addresses are _3,684,258,432_.**
 
@@ -52,12 +52,12 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty perspective its not considered as being very helpful, so all IP addresses listed are attributed to a country. If you shared data with an entity over the public Internet, it would be expected to know which country the IP address resides at which would indicate the data custodian and their country.**
 
-**NOTE7: Some WHOIS records can contradict others. So for example an IP address could be recorded, but when a lookup is performed a few octets up, a whole netblock can be recorded to a different country or provider. In these instances the author has tried to perform additional research to get a better understanding of the data provided.**
+**NOTE7: Some WHOIS records can contradict others. So for example an IP address could be recorded, but when a lookup is performed a few octets up, a whole netblock can be recorded to a different country or provider. Some IP addresses are listed in WHOIS as 'EU' which isn't a country. Also sometimes, WHOIS records state a specific country, and a traceroute proves otherwise, but of course this may be due to dynamic routing. In these instances the author has tried to perform additional research to get a better understanding of the data provided.**
 
 https://www.youtube.com/f1lby
 
 <br><br><br>
-Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably.  Some WHOIS records can contradict others and some WHOIS records state the IP address in the the 'EU', and the lists here try to match with an actual country, as opposed to a region. Also sometimes, WHOIS records state a specific country, and a traceroute proves otherwise, but of course this may be due to dynamic routing.... Everything listed here was recorded from a United Kingdom IP address... My hovercraft is always full of eels.
+Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably. Everything listed here was recorded from a United Kingdom IP address... My hovercraft is always full of eels.
 <br><br>
 
 Also - see _https://en.wikipedia.org/wiki/PeerGuardian_
