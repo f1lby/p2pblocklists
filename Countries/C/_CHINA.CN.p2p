@@ -1876,10 +1876,23 @@
 210.77.0.0-210.77.31.255 Computer Network Information Center of Chinese Academy of Sciences/cstnet.CN 24March2026:210.77.0.0-210.77.31.255
 210.77.32.0-210.77.63.255 China Internet Network Information Center.CN 24March2026:210.77.32.0-210.77.63.255
 210.77.64.0-210.77.95.255 Computer Network Information Center of Chinese Academy of Sciences/cstnet.CN 24March2026:210.77.64.0-210.77.95.255
-210.77.96.0-210.77.96.255 Jiangmen catv network.CN 24March2026:210.77.96.0-210.77.96.255
-210.77.97.0-210.77.97.255 Zhaoqing catv network.CN 24March2026:210.77.97.0-210.77.97.255
-210.77.98.0-210.77.98.255 Foshan catv network.CN 24March2026:210.77.98.0-210.77.98.255
-210.77.99.0-210.77.99.255 Zhongshan catv network.CN 24March2026:210.77.99.0-210.77.99.255
+210.77.96.0-210.77.127.255 GuangDong catv Network.CN 29March2026:210.77.96.0-210.77.127.255
+210.77.128.0-210.77.159.255 21 Via.CN 29March2026Net:210.77.128.0-210.77.159.255
+210.77.160.0-210.77.167.255 Chongqing People Network Co.ltd.CN 29March2026:210.77.160.0-210.77.167.255
+210.77.168.0-210.77.170.255 china telecom.CN 29March2026:210.77.168.0-210.77.170.255
+210.77.171.0-210.77.174.255pnet.CN 29March2026:210.77.171.0-210.77.174.255
+210.77.175.0-210.77.175.255 China Internet Network Information Center.CN 29March2026:210.77.175.0-210.77.175.255
+210.77.176.0-210.77.191.255 State Power Information Net.CN 29March2026:210.77.176.0-210.77.191.255
+210.77.192.0-210.77.223.255 China Broadcasting Shandong Network Co., Ltd. Jinan Branch.CN 29March2026:210.77.192.0-210.77.223.255
+210.77.224.0-210.77.255.255 China Great Wall Network.CN 29March2026:210.77.224.0-210.77.255.255
+210.78.0.0-210.78.31.255 China Unicom.CN 29March2026:210.78.0.0-210.78.31.255
+210.78.32.0-210.78.63.255 China Academy of Launch Vehicle Technology.CN 29March2026:210.78.32.0-210.78.63.255
+210.78.64.0-210.78.95.255 uangDong Highway BroadBand Network Service Center.CN 29March2026:210.78.64.0-210.78.95.255
+210.78.96.0-210.78.127.255 Beijing Volcano Engine Technology Co., Ltd/bytedance.CN 29March2026:210.78.96.0-210.78.127.255
+210.78.128.0-210.78.131.255 263 network group company.CN 29March 2026:210.78.128.0-210.78.131.255
+210.78.132.0-210.78.159.255 ChinaTelecom Group Beijing Ltd,Co.CN 29March2026:210.78.132.0-210.78.159.255
+210.78.160.0-210.78.255.255 China Unicom.CN 29March2026:210.78.160.0-210.78.255.255
+210.79.64.0-210.79.127.255 ShenZhen midskynet Technology Co., Ltd.CN 29March2026:210.79.64.0-210.79.127.255
 210.82.0.0-210.83.255.255 unicom.CN:210.82.0.0-210.83.255.255
 210.185.192.0-210.185.255.255 chinanet.CN 15Dec2023:210.185.192.0-210.185.255.255
 211.64.0.0-211.71.255.255 China Education and Research Network/cernet.CN 14April2025:211.64.0.0-211.71.255.255
