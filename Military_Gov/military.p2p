@@ -174,6 +174,9 @@
 196.1.133.0-196.1.133.255 Defence Intelligence Agency.MIL.NG 16February2026:196.1.133.0-196.1.133.255
 198.11.64.0-198.11.113.255 United States Department of Defense (DoD) (USDDD).MIL.US 13January2026:198.11.64.0-198.11.113.255
 198.14.32.0-198.14.63.255 United States Department of Defense (DoD).MIL.US 13March2026:198.14.32.0-198.14.63.255
+198.17.24.0-198.17.29.255 United States Department of Defense.MIL.US 30March2026:198.17.24.0-198.17.29.255
+198.17.54.0-198.17.56.255 United States Department of Defense.MIL.US 30March2026:198.17.54.0-198.17.56.255
+198.17.64.0-198.17.64.255 United States Department of Defense.MIL.US 30March2026:198.17.64.0-198.17.64.255
 203.0.68.0-203.0.71.255 Australian Army/defence.GOV.AU 25SEPTEMBER2025:203.0.68.0-203.0.71.255
 204.34.0.0-204.37.255.255 DoD Network Information Center.MIL.US 24June2025:204.34.0.0-204.37.255.255
 205.0.0.0-205.55.255.255 DoD Network Information Center.MIL.US 26March2025:205.0.0.0-205.55.255.255
