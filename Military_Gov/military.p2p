@@ -168,6 +168,7 @@
 192.5.21.0-192.5.25.255 United States Department of Defense/DOD.US 15April2026:192.5.21.0-192.5.25.255
 192.5.27.0-192.5.27.255 United States Department of Defense/DOD.US 15April2026:192.5.27.0-192.5.27.255
 192.5.28.0-192.5.30.255 UK Defence Science and Technology Laboratory/dstl.UK 15April2026:192.5.28.0-192.5.30.255
+192.5.41.0-192.5.42.255 United States Department of Defense (DoD).MIL.US 27April2026:192.5.41.0-192.5.42.255
 192.68.233.0-192.68.233.255 86th Tactical Fighter Squadron ramstein airbase.US 20Nov2023:192.68.233.0-192.68.233.255
 194.61.92.0-194.61.94.255 Defence Science and Technology Laboratory dstl.gov.UK 08November2024:194.61.92.0-194.61.94.255
 194.140.232.0/24 portuguese ministry of defence:194.140.232.0-194.140.232.255
@@ -180,6 +181,7 @@
 198.17.24.0-198.17.29.255 United States Department of Defense.MIL.US 30March2026:198.17.24.0-198.17.29.255
 198.17.54.0-198.17.56.255 United States Department of Defense.MIL.US 30March2026:198.17.54.0-198.17.56.255
 198.17.64.0-198.17.64.255 United States Department of Defense.MIL.US 30March2026:198.17.64.0-198.17.64.255
+198.17.81.0-198.17.82.255 United States Department of Defense (DoD).MIL.US 27April2026:198.17.81.0-198.17.82.255
 203.0.68.0-203.0.71.255 Australian Army/defence.GOV.AU 25SEPTEMBER2025:203.0.68.0-203.0.71.255
 204.34.0.0-204.37.255.255 DoD Network Information Center.MIL.US 24June2025:204.34.0.0-204.37.255.255
 205.0.0.0-205.55.255.255 DoD Network Information Center.MIL.US 26March2025:205.0.0.0-205.55.255.255
