@@ -36,6 +36,7 @@
 64.66.64.0-64.66.111.255 Level 3 Parent, LLC/CenturyLink.US 30April2026:64.66.64.0-64.66.111.255
 64.68.64.0-64.68.95.255 CenturyLink Communications, LLC 30April2026:64.68.64.0-64.68.95.255
 64.70.0.0-64.70.111.255 CenturyLink Communications, LLC.US 30April2026:64.70.0.0-64.70.111.255
+64.75.0.0-64.75.63.255 CenturyLink Communications, LLC.US 30April2026:64.75.0.0-64.75.63.255
 64.128.0.0-64.129.255.255 level3/centurylink.US 21November2024:64.128.0.0-64.129.255.255
 65.40.0.0-65.41.255.255 CenturyLink Communications, LLC.US 07August2025:65.40.0.0-65.41.255.255
 65.56.0.0-65.59.255.255 Level 3/CenturyLink.US 08August2025:65.56.0.0-65.59.255.255
