@@ -3,7 +3,7 @@
 # IPinfo - IP to Company / Provider lookup.
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 
-### ** As of 06 June 2026, this repository had over 2.985 billion public Internet IPv4 addresses mapped.**
+### ** As of 07 June 2026, this repository had over 2.985 billion public Internet IPv4 addresses mapped.**
 ### ** No AI was used in the creation of these lists.**
 These files present a large range of public Internet provider/country to IPV4 address lookup capabilities.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
@@ -37,6 +37,7 @@ Use cases include;
 * Filtering of source IP addresses to your authoritative name servers. If DNS records can't be resolved, it makes it harder for an attacker to find your hosts. This can help to reduce spam.
 * Reduction of impact of a DDOS attack, by blocking ranges that you may consider to be high risk.
 * WAF Bypass - Discovering the real IP addresses assigned to an organisation.
+* Geofencing parts of your web site or IT infrastructure.
 
 The lists can be adapted to suit your needs and the information within applied to commercial enterprise-grade and open source firewalls.
 
