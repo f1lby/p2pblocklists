@@ -1007,7 +1007,11 @@
 115.174.64.0-115.174.95.255 Shenzhen Greatwall Broadband Network Service Co.CN 27March2026:115.174.64.0-115.174.95.255
 115.174.96.0-115.174.255.255 China UnionPay Co., Ltd.CN 27March2026:115.174.96.0-115.174.255.255
 115.175.0.0-115.175.255.255 Huawei Public Cloud Service.CN 27March2026:115.175.0.0-115.175.255.255
-115.180.0.0-115.183.255.255 bitnet.CN:115.180.0.0-115.183.255.255
+115.180.0.0-115.180.255.255 China Mobile Communications Group/China TieTong Telecommunications Corporation.CN 02July2026:115.180.0.0-115.180.255.255
+115.181.0.0-115.181.255.255 Beijing Volcano Engine Technology Co., Ltd/bytedance.CN 02July2026:115.181.0.0-115.181.255.255
+115.182.0.0-115.182.255.255 Beijing Teletron Telecom Engineering Co., Ltd.CN 02July2026:115.182.0.0-115.182.255.255
+115.183.0.0-115.183.255.255 Beijing Bitone United Networks.CN 02July2026:115.183.0.0-115.183.255.255
+115.187.0.0-115.187.15.255 Beijing Teletron Telecom Engineering Co., Ltd.CN 02July2026:115.187.0.0-115.187.15.255
 115.190.0.0-115.191.255.255 great wall broadband.CN 29Mar2017:115.190.0.0-115.191.255.255
 115.192.0.0-115.239.255.255 chinanet.CN 29Mar2017:115.192.0.0-115.239.255.255
 116.0.8.0-116.0.15.255 China Telecom.CN 02July2025:116.0.8.0-116.0.15.255
