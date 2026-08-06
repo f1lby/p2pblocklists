@@ -57,7 +57,8 @@ The lists can be adapted to suit your needs and the information within applied t
 https://www.youtube.com/f1lby
 
 <br><br><br>
-Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably. Everything listed here was discovered by means of a United Kingdom IP address... My hovercraft is still always full of eels.
+Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably. Everything listed here was discovered by means of a United Kingdom IP address... 
+Mae fy hofrenfad yn llawn llyswennod.
 <br><br>
 To report any inaccuracies, please make contact via Github. Thank you.
 <br><br>
