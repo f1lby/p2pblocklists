@@ -1,6 +1,6 @@
 "Going where no man has gone before .... probably maybe..."
 <br>
-# IPinfo - Country to IP / Organisation to IP
+# IPinfo - Country To IP / Organisation To IP - Reverse WHOIS Lookup
 
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
 ### ** As of 02 September 2026, this repository had over 3.082 billion public Internet IPv4 addresses mapped.**
