@@ -1294,6 +1294,8 @@
 141.56.0.0-141.56.255.255 Hochschule fuer Technik und Wirtschaft Dresden.DE 02September2026:141.56.0.0-141.56.255.255
 141.57.0.0-141.57.255.255 Hochschule fuer Technik, Wirtschaft und Kultur Leipzig.DE 02September2026:141.57.0.0-141.57.255.255
 141.58.0.0-141.58.255.255 Universitaet Stuttgart.DE 02September2026:141.58.0.0-141.58.255.255
+141.59.0.0-141.59.191.255 Hochschule Ulm Technik, Informatik & Medien.DE 02September2026:141.59.0.0-141.59.191.255
+141.59.192.0-141.59.255.255 belwue.DE 02September2026:141.59.192.0-141.59.255.255
 141.60.0.0-141.60.255.255 fh-rosenheim.DE 08July2024:141.60.0.0-141.60.255.255
 141.61.0.0-141.61.255.255 Max-Planck-Intitut fuer Biochemie.DE 08July2024:141.61.0.0-141.61.255.255
 141.62.0.0-141.62.255.255 hdm-stuttgart.DE 08July2024:141.62.0.0-141.62.255.255
@@ -1314,6 +1316,13 @@
 141.77.0.0-141.77.255.255 NTT DATA Deutschland.DE 08July2024:141.77.0.0-141.77.255.255
 141.78.0.0-141.78.99.255 Katholische Universitaet Eichstaett.DE 08July2024:141.78.0.0-141.78.99.255
 141.78.100.0-141.78.103.255 dioezesennetz.DE 08July2024:141.78.100.0-141.78.103.255
+141.78.104.0-141.78.127.255 Katholische Universitaet Eichstaett.DE 02September2026:141.78.104.0-141.78.127.255
+141.78.128.0-141.78.191.255 COM-IN Telekommunikations GmbH.DE 02September2026:141.78.128.0-141.78.191.255
+141.78.192.0-141.78.255.255 Katholische Universitaet Eichstaett.DE 02September2026:141.78.192.0-141.78.255.255
+141.79.0.0-141.79.255.255 Hochschule für Technik, Wirtschaft und Medien Campus Offenburg.DE 02September2026:141.79.0.0-141.79.255.255
+141.80.0.0-141.80.255.255 Max-Delbrueck-Centrum fuer Molekulare Medizin in der Helmholtz-Gemeinschaft.DE 02September2026:141.80.0.0-141.80.255.255
+141.82.0.0-141.82.255.255 Technische Hochschule Augsburg.DE 02September2026:141.82.0.0-141.82.255.255
+141.83.0.0-141.83.255.255 Universitaet zu Luebeck.DE 02September2026:141.83.0.0-141.83.255.255
 141.98.7.0-141.98.7.255 soliacloud.DE 29Nov2023:141.98.7.0-141.98.7.255
 141.98.144.0-141.98.147.255 desanet.DE 23September2024:141.98.144.0-141.98.147.255
 142.132.128.0-142.132.255.255 hetzner.DE 17March2026:142.132.128.0-142.132.255.255
