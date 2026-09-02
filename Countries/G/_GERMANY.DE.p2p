@@ -1256,6 +1256,44 @@
 141.25.0.0-141.25.255.255 Physikalisch-Technische Bundesanstalt.DE 02September2026:141.25.0.0-141.25.255.255
 141.26.0.0-141.26.255.255 Universitaet Koblenz.DE 02September2026:141.26.0.0-141.26.255.255
 141.27.0.0-141.27.255.255 Universitaet Wuerzburg.DE 02September2026:141.27.0.0-141.27.255.255
+141.28.0.0-141.28.255.255 Hochschule Furtwangen.DE 02September2026:141.28.0.0-141.28.255.255
+141.29.0.0-141.29.255.255 siemens.DE 02September2026:141.29.0.0-141.29.255.255
+141.30.0.0-141.30.255.255 Technische Universitaet Dresden.DE 02September2026:141.30.0.0-141.30.255.255
+141.31.0.0-141.31.255.255 Duale Hochschule Baden-Wuerttemberg Stuttgart.DE 02September2026:141.31.0.0-141.31.255.255
+141.32.0.0-141.32.255.255 Westsaechsische Hochschule Zwickau.DE 02September2026:141.32.0.0-141.32.255.255
+141.33.0.0-141.33.255.255 Leibniz-Institut fuer Astrophysik Potsdam.DE 02September2026:141.33.0.0-141.33.255.255
+141.34.0.0-141.34.255.255 Deutsches Elektronen-Synchrotron DESY.DE 02September2026:141.34.0.0-141.34.255.255
+141.35.0.0-141.35.255.255 Friedrich Schiller Universitaet Jena.DE 02September2026:141.35.0.0-141.35.255.255
+141.36.0.0-141.36.255.255 Dr. Ing. h.c. F. Porsche AG.DE 02September2026:141.36.0.0-141.36.255.255
+141.37.0.0-141.37.255.255 Hochschule Konstanz Technik, Wirtschaft und Gestaltung.DE 02September2026:141.37.0.0-141.37.255.255
+141.38.0.0-141.38.255.255 Deutscher Wetterdienst.DE 02September2026:141.38.0.0-141.38.255.255
+141.39.0.0-141.39.127.255 Deutsche Telekom IT GmbH,DE 02September2026:141.39.0.0-141.39.127.255
+141.39.128.0-141.39.191.255 Klinikum rechts der Isar.DE 02September2026:141.39.128.0-141.39.191.255
+141.39.192.0-141.39.207.255 Hochschule Ansbach.DE 02September2026:141.39.192.0-141.39.207.255
+141.39.208.0-141.39.218.255 Leuphana Universitaet Lueneburg.DE 02September2026:141.39.208.0-141.39.218.255
+141.39.219.0-141.39.219.255 dfn.DE 02September2026:141.39.219.0-141.39.219.255
+141.39.220.0-141.39.223.255 measurement.network.DE 02September2026:141.39.220.0-141.39.223.255
+141.39.224.0-141.39.239.255 Universitaet Leipzig.DE 02September2026:141.39.224.0-141.39.239.255
+141.39.240.0-141.39.255.255 Hochschule Muenchen.DE 02September2026:141.39.240.0-141.39.255.255
+141.40.0.0-141.40.255.255 Leibniz-Rechenzentrum.DE 02September2026:141.40.0.0-141.40.255.255
+141.41.0.0-141.41.255.255 Ostfalia Hochschule fuer angewandte Wissenschaften.DE 02September2026:141.41.0.0-141.41.255.255
+141.42.0.0-141.42.255.255 Charite - Universitaetsmedizin Berlin.DE 02September2026:141.42.0.0-141.42.255.255
+141.43.0.0-141.43.255.255 Brandenburgische Technische Universitaet Cottbus-Senftenberg.DE 02September2026:141.43.0.0-141.43.255.255
+141.44.0.0-141.44.255.255 Otto-von-Guericke-Universitaet.DE 02September2026:141.44.0.0-141.44.255.255
+141.45.0.0-141.45.255.255 Hochschule fuer Technik und Wirtschaft Berlin.DE 02September2026:141.45.0.0-141.45.255.255
+141.46.0.0-141.46.255.255 Hochschule Zittau/Goerlitz.DE 02September2026:141.46.0.0-141.46.255.255
+141.47.0.0-141.47.255.255 Hochschule Pforzheim Gestaltung, Technik, Wirtschaft und Recht.DE 02September2026:141.47.0.0-141.47.255.255
+141.48.0.0-141.48.255.255 Martin-Luther-Universitaet Halle-Wittenberg.DE 02September2026:141.48.0.0-141.48.255.255
+141.49.0.0-141.49.255.255 Broermann Holding GmbH.DE 02September2026:141.49.0.0-141.49.255.255
+141.50.0.0-141.50.255.255 Institut fuer medizinische Informatik - Uni Giessen.DE 02September2026:141.50.0.0-141.50.255.255
+141.51.0.0-141.51.255.255 Universitaet Kassel.DE 02September2026:141.51.0.0-141.51.255.255
+141.52.0.0-141.52.255.255 Karlsruhe Institute of Technology.DE 02September2026:141.52.0.0-141.52.255.255
+141.53.0.0-141.53.255.255 Universitaet Greifswald.DE 02September2026:141.53.0.0-141.53.255.255
+141.54.0.0-141.54.255.255 Bauhaus-Universitaet Weimar.DE 02September2026:141.54.0.0-141.54.255.255
+141.55.0.0-141.55.255.255 Hochschule fuer Technik und Wirtschaft Mittweida.DE 02September2026:141.55.0.0-141.55.255.255
+141.56.0.0-141.56.255.255 Hochschule fuer Technik und Wirtschaft Dresden.DE 02September2026:141.56.0.0-141.56.255.255
+141.57.0.0-141.57.255.255 Hochschule fuer Technik, Wirtschaft und Kultur Leipzig.DE 02September2026:141.57.0.0-141.57.255.255
+141.58.0.0-141.58.255.255 Universitaet Stuttgart.DE 02September2026:141.58.0.0-141.58.255.255
 141.60.0.0-141.60.255.255 fh-rosenheim.DE 08July2024:141.60.0.0-141.60.255.255
 141.61.0.0-141.61.255.255 Max-Planck-Intitut fuer Biochemie.DE 08July2024:141.61.0.0-141.61.255.255
 141.62.0.0-141.62.255.255 hdm-stuttgart.DE 08July2024:141.62.0.0-141.62.255.255
