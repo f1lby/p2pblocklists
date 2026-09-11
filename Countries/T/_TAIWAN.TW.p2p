@@ -378,7 +378,11 @@
 210.85.0.0-210.85.255.255 Far EasTone Telecommunication Co., Ltd.TW 17June2026:210.85.0.0-210.85.255.255
 210.176.44.0-210.176.44.255 Telstra Global Internet Services.TW 15August2024:210.176.44.0-210.176.44.255
 210.176.136.0-210.176.137.255 Telstra Global Internet Services.TW 10September2026:210.176.136.0-210.176.137.255
-210.202.0.0/16 apol.TW:210.202.0.0-210.202.255.255
+210.192.0.0-210.192.63.255 Taiwan Telecommunication Network Services Co.,LTD/taiwanmobile.TW 11September2026:210.192.0.0-210.192.63.255
+210.192.128.0-210.192.255.255 Taiwan Telecommunication Network Services Co.,LTD/taiwanmobile.TW 11September2026:210.192.128.0-210.192.255.255
+210.200.0.0-210.203.127.255 Far EasTone Telecommunication Co., Ltd.TW 11September2026:210.200.0.0-210.203.127.255
+210.208.0.0-210.208.95.255 Gamania Digital Entertainment Network/savecom.TW 11September2026:210.208.0.0-210.208.95.255
+210.208.96.0-210.208.255.255 Taiwan Telecommunication Network Services Co.,LTD/taiwanmobile.TW 11September2026:210.208.96.0-210.208.255.255
 210.209.0.0-210.209.63.255 savecom.TW 19Aug2016:210.209.0.0-210.209.63.255
 210.242.0.0/16 hinet.TW 09Oct2017:210.242.0.0-210.242.255.255
 210.243.0.0-210.243.127.255 tanet.TW:210.243.0.0-210.243.127.255
