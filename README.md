@@ -20,6 +20,7 @@ The files are all plain text format and readable using Notepad, Notepad++, Vim, 
 They have been lovingly hand created and maintained since 2006 and were made public on 01 August 2024 by the author. This data is collected, created and maintained using both manual and semi-automated methods.
 
 Use cases include;
+* Discovery of assigned IP address(es) based on organisation name, country or other factor such as military or government.
 * Deny IPv4 from specific countries (GEOIP), network providers or Government / Military
 * Allow IPv4 from specific countries (GEOIP), network providers or Government / Military
 * You have a firewall which is DENY ALL, and wish to 'punch a few holes in it' for specific providers or organisations (ORGIP) - you may find your network provider listed here.
@@ -58,7 +59,7 @@ The lists can be adapted to suit your needs and the information within applied t
 
 https://www.youtube.com/f1lby
 
-<br><br><br>
+<br><br>
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. The term IP and IPv4 are used interchangeably. Everything listed here was discovered by means of a United Kingdom IP address... 
 Mae fy hofrenfad yn llawn llyswennod.
 <br><br>
