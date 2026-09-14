@@ -1,4 +1,3 @@
-43.240.84.0-43.240.87.255 Guangzhou NetEase Computer System Co., Ltd.CN 13September2026:0.0.0.0-0.0.0.0
 1.0.1.0-1.0.1.255 chinanet.CN 17Aug2016:1.0.1.0-1.0.1.255
 1.0.2.0-1.0.3.255 chinanet.CN 17Aug2016:1.0.2.0-1.0.3.255
 1.0.8.0-1.0.15.255 chinatelecom.CN 21June2024:1.0.8.0-1.0.15.255
@@ -458,15 +457,27 @@
 43.240.68.0-43.240.71.255 Beijing Yan Yang Century Science & Technology Co., LTD.CN 13September2026:43.240.68.0-43.240.71.255
 43.240.72.0-43.240.75.255 Zhejiang zhi cloud information technology co., LTD.CN 13September2026:43.240.72.0-43.240.75.255
 43.240.76.0-43.240.79.255 Shanghai Zongzhi InfoTech Co.,Ltd.CN 13September2026:43.240.76.0-43.240.79.255
-43.240.156.0-43.240.159.255 Zhejiang zhi cloud.CN 16May2023:43.240.156.0-43.240.159.255
-43.240.200.0-43.240.203.255 Beijing Strong Network Technology.CN 18February2025:43.240.200.0-43.240.203.255
-43.240.220.0-43.240.223.255 Inner Mongolia Ruitong Network Technology Co.CN 06October2025:43.240.220.0-43.240.223.255
-43.240.244.0-43.240.247.255 anchnet.CN 13Feb2017:43.240.244.0-43.240.247.255
-43.241.0.0-43.241.3.255 anchnet.CN 19Apr2017:43.241.0.0-43.241.3.255
-43.241.4.0-43.241.11.255 syscloud.CN 19Apr2017:43.241.4.0-43.241.11.255
-43.241.12.0-43.241.15.255 linkever.CN 19Apr2017:43.241.12.0-43.241.15.255
-43.241.16.0-43.241.19.255 changshu open computer network.CN 19Apr2017:43.241.16.0-43.241.19.255
-43.241.48.0-43.241.51.255 suqian network.CN 19Apr2017:43.241.48.0-43.241.51.255
+43.240.84.0-43.240.87.255 Guangzhou NetEase Computer System Co., Ltd.CN 13September2026:43.240.84.0-43.240.87.255
+43.240.124.0-43.240.131.255 Shanghai ruisu Network Technology Co.,Ltd.CN 14September2026:43.240.124.0-43.240.131.255
+43.240.132.0-43.240.135.255 SiChuan Cable TV Network CO.,LTD.CN 14September2026:43.240.132.0-43.240.135.255
+43.240.136.0-43.240.139.255 Beijing WangJu Interworking Information Technology Co. LTD.CN 14September2026:43.240.136.0-43.240.139.255
+43.240.144.0-43.240.147.255 Shenzhen Katherine Heng Technology Information Co., Ltd.CN 14September2026:43.240.144.0-43.240.147.255
+43.240.156.0-43.240.159.255 Zhejiang zhi cloud information technology co.CN 14September2026:43.240.156.0-43.240.159.255
+43.240.160.0-43.240.191.255 Shanghai Sakura Communications Co., Ltd.CN 14September2026:43.240.160.0-43.240.191.255
+43.240.192.0-43.240.199.255 Shanghai ruisu Network Technology Co.,Ltd.CN 14September2026:43.240.192.0-43.240.199.255
+43.240.200.0-43.240.203.255 Beijing Strong Network Technology.CN 14September2026:43.240.200.0-43.240.203.255
+43.240.204.0-43.240.207.255 Hangzhou Sulian Information Technology Co.,ltd.CN 14September2026:43.240.204.0-43.240.207.255
+43.240.208.0-43.240.211.255 hatang.CN 14September2026:43.240.208.0-43.240.211.255
+43.240.212.0-43.240.215.255 Dongguan silver fox network co., LTD.CN 14September2026:43.240.212.0-43.240.215.255
+43.240.216.0-43.240.219.255 Shandong eshinton Network Technology Co., Ltd.CN 14September2026:43.240.216.0-43.240.219.255
+43.240.220.0-43.240.223.255 RUITONGHL.CN 14September2026:43.240.220.0-43.240.223.255
+43.240.240.0-43.240.243.255 Cenvan (Jinan) Network Technology CO.,LTD.CN 14September2026:43.240.240.0-43.240.243.255
+43.240.244.0-43.240.255.255 Shanghai ruisu Network Technology Co.,Ltd.CN 14September2026:43.240.244.0-43.240.255.255
+43.241.0.0-43.241.3.255 Shanghai ruisu Network Technology Co.,Ltd.CN 14September2026:43.241.0.0-43.241.3.255
+43.241.4.0-43.241.11.255 syscloud(Suzhou)technology limited.CN 14September2026:43.241.4.0-43.241.11.255
+43.241.12.0-43.241.15.255 Beijing Linkever Technology Co.,Ltd.CN 14September2026:43.241.12.0-43.241.15.255
+43.241.16.0-43.241.19.255 Zhejiang zhi cloud information technology co., LTD.CN 14September2026:43.241.16.0-43.241.19.255
+43.241.20.0-43.241.23.255 Beijing Tian Ying Jiu Zhou Network Technology Co., Ltd.CN 14September2026:43.241.20.0-43.241.23.255
 43.242.180.0-43.242.183.255 unicom.CN 09Nov2023:43.242.180.0-43.242.183.255
 43.242.188.0-43.242.191.255 TopIaas.CN 09Nov2023:43.242.188.0-43.242.191.255
 43.242.192.0-43.242.195.255 Primezone Technologies.CN 09Nov2023:43.242.192.0-43.242.195.255
