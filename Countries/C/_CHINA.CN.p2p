@@ -1272,16 +1272,22 @@
 117.57.0.0-117.57.255.255 China Telecom.CN 21September2026:117.57.0.0-117.57.255.255
 117.58.0.0-117.58.127.255 Beijing Baidu Netcom Science and Technology Co., Ltd.CN 21September2026:117.58.0.0-117.58.127.255
 117.59.0.0-117.59.255.255 Beijing Kuancom Network Technology Co.,Ltd.CN 21September2026:117.59.0.0-117.59.255.255
-117.60.0.0-117.63.255.255 chinanet.CN:117.60.0.0-117.63.255.255
-117.64.0.0-117.71.255.255 chinanet.CN 21Nov2017:117.64.0.0-117.71.255.255
-117.72.0.0-117.72.255.255 jdcom.CN 26Oct2023:117.72.0.0-117.72.255.255
-117.73.0.0-117.73.255.255 Inspur Software.CN 26Oct2023:117.73.0.0-117.73.255.255
-117.74.128.0-117.74.255.255 dmtnet.CN:117.74.128.0-117.74.255.255
-117.75.0.0/16 bbnet.CN:117.75.0.0-117.75.255.255
-117.76.0.0-117.78.255.255 timenet.CN:117.76.0.0-117.78.255.255
-117.79.0.0-117.79.63.255 kuancom.CN:117.79.0.0-117.79.63.255
-117.79.64.0-117.79.255.255 neteon.CN:117.79.64.0-117.79.255.255
-117.80.0.0-117.95.255.255 chinanet.CN:117.80.0.0-117.95.255.255
+117.60.0.0-117.71.255.255 China Telecom.CN 23September2026:117.60.0.0-117.71.255.255
+117.72.0.0-117.72.255.255 Beijing Jingdong 360 Degree E-commerce Co., Ltd.CN 23September2026:117.72.0.0-117.72.255.255
+117.73.0.0-117.73.255.255 Inspur Software Group Co., Ltd.CN 23September2026:117.73.0.0-117.73.255.255
+117.74.64.0-117.74.79.255 Poly facility (Beijing) Technology Co., Ltd.CN 23September2026:117.74.64.0-117.74.79.255
+117.74.80.0-117.74.95.255 China Telecom.CN 23September2026:117.74.80.0-117.74.95.255
+117.74.128.0-117.74.255.255 Shanghai DMT Information Network cor.,LTD.CN 23September2026:117.74.128.0-117.74.255.255
+117.75.0.0-117.75.255.255 Tencent cloud computing (Beijing) Co., Ltd.CN 23September2026:117.75.0.0-117.75.255.255
+117.76.0.0-117.77.255.255 Beijing Volcano Engine Technology Co., Ltd/bytedance.CN 23September2026:117.76.0.0-117.77.255.255
+117.78.0.0-117.78.63.255 Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co).CN 23September2026:117.78.0.0-117.78.63.255
+117.78.64.0-117.78.255.255 Beijing Volcano Engine Technology Co., Ltd/bytedance.CN 23September2026:117.78.64.0-117.78.255.255
+117.79.0.0-117.79.63.255 kuancom.CN 23September2026:117.79.0.0-117.79.63.255
+117.79.64.0-117.79.255.255 Golden-Bridge Netcom communication Co.,LTD.CN 23September2026:117.79.64.0-117.79.255.255
+117.80.0.0-117.95.255.255 China Telecom.CN 23September2026:117.80.0.0-117.95.255.255
+117.100.0.0-117.100.127.255 Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co).CN 23September2026:117.100.0.0-117.100.127.255
+117.100.128.0-117.100.255.255 BeiJing Kuandaitong Telecom Technology Co.,Ltd.CN 23September2026:117.100.128.0-117.100.255.255
+117.101.0.0-117.101.255.255 Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co).CN 23September2026:117.101.0.0-117.101.255.255
 117.106.0.0-117.107.255.255 bjenet.CN:117.106.0.0-117.107.255.255
 117.121.0.0-117.121.191.255 cnlink.CN 09May2017:117.121.0.0-117.121.191.255
 117.121.192.0-117.121.199.255 shanghai container lines.CN 09May2017:117.121.192.0-117.121.199.255
