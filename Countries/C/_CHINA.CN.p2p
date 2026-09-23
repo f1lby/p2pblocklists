@@ -1288,6 +1288,9 @@
 117.100.0.0-117.100.127.255 Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co).CN 23September2026:117.100.0.0-117.100.127.255
 117.100.128.0-117.100.255.255 BeiJing Kuandaitong Telecom Technology Co.,Ltd.CN 23September2026:117.100.128.0-117.100.255.255
 117.101.0.0-117.101.255.255 Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co).CN 23September2026:117.101.0.0-117.101.255.255
+117.103.16.0-117.103.31.255 Computer Network Information Center of Chinese Academy of Sciences/cstnet.CN 23September2026:117.103.16.0-117.103.31.255
+117.103.40.0-117.103.47.255 China Telecom.CN 23September2026:117.103.40.0-117.103.47.255
+117.103.72.0-117.103.79.255 China Telecom.CN 23September2026:117.103.72.0-117.103.79.255
 117.106.0.0-117.107.255.255 bjenet.CN:117.106.0.0-117.107.255.255
 117.121.0.0-117.121.191.255 cnlink.CN 09May2017:117.121.0.0-117.121.191.255
 117.121.192.0-117.121.199.255 shanghai container lines.CN 09May2017:117.121.192.0-117.121.199.255
