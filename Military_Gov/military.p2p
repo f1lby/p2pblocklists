@@ -127,6 +127,17 @@
 148.1.0.0-148.1.255.255 DoD Network Information Center.MIL.US 23March2025:148.1.0.0-148.1.255.255
 148.10.0.0-148.50.255.255 DoD Network Information Center.MIL.US 02April2025:148.10.0.0-148.50.255.255
 148.58.0.0-148.58.255.255 DoD Network Information Center (DNIC).MIL.US 04April2025:148.58.0.0-148.58.255.255
+150.133.0.0-150.133.255.255 United States Department of Defense.MIL.US 06October2026:150.133.0.0-150.133.255.255
+150.137.0.0-150.137.255.255 United States Department of Defense.MIL.US 06October2026:150.137.0.0-150.137.255.255
+150.149.0.0-150.149.255.255 United States Department of Defense.MIL.US 06October2026:150.149.0.0-150.149.255.255
+150.152.0.0-150.153.255.255 United States Department of Defense.MIL.US 06October2026:150.152.0.0-150.153.255.255
+150.157.0.0-150.157.255.255 United States Department of Defense.MIL.US 06October2026:150.157.0.0-150.157.255.255
+150.168.0.0-150.168.255.255 United States Department of Defense.MIL.US 06October2026:150.168.0.0-150.168.255.255
+150.177.0.0-150.177.255.255 United States Department of Defense.MIL.US 06October2026:150.177.0.0-150.177.255.255
+150.180.0.0-150.180.255.255 United States Department of Defense.MIL.US 06October2026:150.180.0.0-150.180.255.255
+150.184.0.0-150.184.255.255 United States Department of Defense.MIL.US 06October2026:150.184.0.0-150.184.255.255
+150.190.0.0-150.190.255.255 United States Department of Defense.MIL.US 06October2026:150.190.0.0-150.190.255.255
+150.192.0.0-150.194.255.255 United States Department of Defense.MIL.US 06October2026:150.192.0.0-150.194.255.255
 151.104.33.106 smtp2.nsv.mod.uk 07January2026:151.104.33.106-151.104.33.106
 151.125.0.0-151.125.255.255 DoD Network Information Center.US 18March2025:151.125.0.0-151.125.255.255
 151.166.0.0-151.166.255.255 Air Force Systems Networking.MIL.US 21March2025:151.166.0.0-151.166.255.255
