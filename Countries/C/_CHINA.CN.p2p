@@ -140,6 +140,7 @@
 36.255.172.0-36.255.175.255 Kongshan Network Technology.CN 21June2024:36.255.172.0-36.255.175.255
 36.255.176.0-36.255.179.255 Shanghai Qiniu Information Technologies.CN 15February2026:36.255.176.0-36.255.179.255
 36.255.220.0-36.255.223.255 ucloud.CN 15February2026:36.255.220.0-36.255.223.255
+37.72.142.0-37.72.142.255 Beijing Ruihao Kai Yuan Technology Co., Ltd.CN 17October2026:37.72.142.0-37.72.142.255
 39.0.0.0-39.0.255.255 chinatelecom.CN 31March2025:39.0.0.0-39.0.255.255
 39.64.0.0-39.95.255.255 china unicom.CN 31March2025:39.64.0.0-39.95.255.255
 39.96.0.0-39.108.255.255 alisoft/Aliyun Computing Co.CN 31March2025:39.96.0.0-39.108.255.255
@@ -906,6 +907,10 @@
 103.17.160.0-103.17.163.255 Shanghai fuyun Networks Inc.CN 29September2026:103.17.160.0-103.17.163.255
 103.17.204.0-103.17.207.255 Shaanxi provincial industry and Information Department.CN 06October2026:103.17.204.0-103.17.207.255
 103.17.228.0-103.17.231.255 Zhejiang Wasu Broadcast&TV Network Co., Ltd.CN 07October2026:103.17.228.0-103.17.231.255
+103.18.186.0-103.18.187.255 Hardcore Communication Co.CN 17October2026:103.18.186.0-103.18.187.255
+103.18.192.0-103.18.195.255 Guangdong Information Center.CN 17October2026:103.18.192.0-103.18.195.255
+103.18.208.0-103.18.215.255 Shenzhen Tencent Computer Systems Company Limited.CN 17October2026:103.18.208.0-103.18.215.255
+103.18.224.0-103.18.227.255 Hangzhou Netbank Technologies co.,LTD.CN 17October2026:103.18.224.0-103.18.227.255
 103.20.112.0-103.20.115.255 China Mobile Communications Corporation.CN 09December2024:103.20.112.0-103.20.115.255
 103.21.176.0-103.21.179.255 cmnet.CN 08Mar2016:103.21.176.0-103.21.179.255
 103.22.0.0/16 chinanet.CN:103.22.0.0-103.22.255.255
