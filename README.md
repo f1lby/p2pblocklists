@@ -4,7 +4,7 @@
 # For OSINT, network hardening, cybersecurity, auditing and many other purposes.
 
 # 'Probably the biggest and most comprehensive open source Internet IPv4 address audit project ever... mapping the entire IPv4 Internet address space'
-### ** As of 20 October 2026, this repository had over 3.124 billion public Internet IPv4 addresses mapped and recorded.**
+### ** As of 22 October 2026, this repository had over 3.125 billion public Internet IPv4 addresses mapped and recorded.**
 ### ** No AI was used in the creation of these lists.**
 These files present a large range of public Internet provider/country to IPV4 address lookup capabilities.
 It's a bit like a '*reverse WHOIS*', where you have the *country* or *organisation* / *provider* name and can reference these files to find the associated IPv4 addresses.
@@ -53,7 +53,7 @@ The lists can be adapted to suit your needs and the information within applied t
 
 **NOTE5: If you find your IP address(es) listed here, be assured that all information was discovered using OSINT methodologies including WHOIS, Google or a bit of reverse DNS...**
 
-**NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty perspective its not considered as being very helpful, so all IP addresses listed are attributed to a country. If you shared data with an entity over the public Internet, it would be expected to know which country the IP address resides at which would indicate the data custodian and their country.**
+**NOTE6: Some records list an IP address range as 'being in the EU'. From a data sovereignty perspective its not considered as being very helpful, so all IP addresses listed are attributed to a country. If you shared data with an entity over the public Internet, it would be expected to know which country the IP address resides at which would indicate the data custodian and their country. In addition, it is noted that some WHOIS entries are woefully inadequate & missing data - in these instances the author has tried their best to research the IP addresses in question and use best judgement on the assumed owner. This can only be truely resolved if WHOIS record keepers MAINTAIN THEIR DATA PROPERLY**
 
 **NOTE7: Some WHOIS records can contradict others. So for example an IP address could be recorded, but when a lookup is performed a few octets up, a whole netblock can be recorded to a different country or provider. Some IP addresses are listed in WHOIS as 'EU' which isn't a country. Also sometimes, WHOIS records state a specific country, and a traceroute proves otherwise, but of course this may be due to dynamic routing. In these instances the author has tried to perform additional research to get a better understanding of the data provided.**
 
